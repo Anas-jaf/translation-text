@@ -16,8 +16,8 @@
       <tuv lang="en-US">
         <seg>"A  friend  is  someone  who  knows  all  , about  you  and  still  loves  you."  Elbert  , Hubbard  was  an  American  writer,  , publisher,  artist,  and  philosopher  in  , the  late  19th  century  and  early  20th  , century.  He  is  well  known  for  founding  , an  Arts  &amp;amp;  Crafts  community  in  East  , Aurora,  New  York  called  Roycroft.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203510Z" creationid="ansas" creationdate="20201209T160632Z">
-        <seg>"الصديق هو شخص يعرف كل شيء عنك ولا يزال يحبك." إلبرت ، هوبارد كاتب وناشر وفنان وفيلسوف أمريكي في أواخر القرن التاسع عشر وأوائل القرن العشرين. وهو معروف بتأسيسه ، مجتمع الفنون والحرف اليدوية في الشرق ، أورورا ، نيويورك يسمى رويكروفت.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160632Z" creationid="ansas" creationdate="20201209T160632Z">
+        <seg>"الصديق هو شخص يعرف كل شيء عنك ولا يزال يحبك." إلبرت ، هوبارد كاتب وناشر وفنان وفيلسوف أمريكي في أواخر القرن التاسع عشر وأوائل القرن العشرين. وهو معروف بتأسيسه ، مجتمع الفنون والحرف اليدوية في الشرق ، أورورا ، نيويورك يسمى Roycroft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,14 +66,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T141302Z" creationid="ansas" creationdate="20201209T145634Z">
         <seg>"أصبح روك بوتوم هو الأساس المتين الذي أعادت بناء حياتي عليه". جي كي رولينغ روائية وكاتبة سيناريو بريطانية. اشتهرت بأنها مؤلفة سلسلة الكتب الخيالية الشهيرة هاري بوتر. تتكون سلسلة كتب هاري بوتر من 7 كتب تم تحويلها إلى 8 أفلام.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>"Stewardesses"  is  the  longest  word  that  , is  typed  with  only  the  left  hand.  A  , stewardess  is  a  woman  who  is  employed  , to  provide  meals  for  and  otherwise  , look  after  passengers  on  a  ship  or  , aircraft.  These  days,  we  typically  use  , the  term  flight  attendant,  which  can  , refer  to  a  man  or  woman  that  performs  , this  job.  What  other  words  are  typed  , with  only  one  hand?</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203448Z" creationid="anas" creationdate="20220301T203448Z">
-        <seg>"المضيفات" هي  كلمة يتم كتابتها باليد اليمنى و اليسرى ، المضيفة هي امرأة يتم توظيفها لتقديم وجبات الطعام وخلاف ذلك ، رعاية الركاب على متن سفينة أو طائرة. في هذه الأيام ، نستخدم عادةً مصطلح المضيفة ، والتي يمكن أن تشير إلى رجل أو امرأة يؤدي هذه الوظيفة. ما هي الكلمات الأخرى التي تكتب بيد واحدة فقط؟</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +344,8 @@
       <tuv lang="en-US">
         <seg>Australia  is  a  country  in  the  Southern  , Hemisphere  between  the  Pacific  Ocean  , and  the  Indian  Ocean.  Its  official  , name  is  the  Commonwealth  of  Australia.  , Australia  is  the  sixth  biggest  country  , in  the  world  by  landmass.  The  , Australian  emblem  is  a  flower  called  , the  Golden  Wattle.  Australia  is  also  , the  smallest  continent  in  the  world.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202001Z" creationid="ansas" creationdate="20201209T145630Z">
-        <seg>أستراليا بلد يقع في الجنوب ، بين المحيط الهادئ والمحيط الهندي. الاسم الرسمي لها هو كومنولث أستراليا. ، أستراليا هي سادس أكبر دولة في العالم من حيث المساحة. الشعار الأسترالي هو زهرة تسمى اكاسيا الذهبية. أستراليا هي أيضًا أصغر قارة في العالم.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145630Z" creationid="ansas" creationdate="20201209T145630Z">
+        <seg>أستراليا بلد يقع في الجنوب ، بين المحيط الهادئ والمحيط الهندي. الاسم الرسمي لها هو كومنولث أستراليا. ، أستراليا هي سادس أكبر دولة في العالم من حيث المساحة. الشعار الأسترالي هو زهرة تسمى Golden Wattle. أستراليا هي أيضًا أصغر قارة في العالم.</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +520,8 @@
       <tuv lang="en-US">
         <seg>A  tornado  is  a  violent  rotating  column  , of  air  extending  from  a  thunderstorm  , to  the  ground.  The  most  violent  , tornadoes  are  capable  of  tremendous  , destruction  with  wind  speeds  of  up  to  , three  hundred  mph.  The  vast  majority  , of  tornadoes  occur  in  the  Tornado  , Alley  region  of  the  United  States.  The  , term  Tornado  Alley  was  first  used  in  , 1952.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203048Z" creationid="ansas" creationdate="20201209T160459Z">
-        <seg>الإعصار هو عمود دوار عنيف ، يمتد من الهواء من عاصفة رعدية إلى الأرض. أعنف الأعاصير قادرة على تدمير هائل مع سرعة رياح تصل إلى 300 ميل في الساعة. الغالبية العظمى من الأعاصير تحدث في منطقة تورنيدو ، اللي  في الولايات المتحدة. تم استخدام مصطلح تورنيدو اللي لأول مرة في عام 1952.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160459Z" creationid="ansas" creationdate="20201209T160459Z">
+        <seg>الإعصار هو عمود دوار عنيف ، يمتد من الهواء من عاصفة رعدية إلى الأرض. أعنف الأعاصير قادرة على تدمير هائل مع سرعة رياح تصل إلى 300 ميل في الساعة. الغالبية العظمى من الأعاصير تحدث في منطقة Tornado ، Alley في الولايات المتحدة. تم استخدام مصطلح Tornado Alley لأول مرة في عام 1952.</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,14 +670,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>China  has  the  world's  oldest  continuous  , civilization.  There  is  archaeological  , evidence  of  this  that  is  over  5,000  , years  old.  China  also  has  one  of  the  , world's  oldest  writing  systems,  and  is  , viewed  as  the  source  of  many  major  , inventions.  China  is  home  to  some  of  , the  oldest  artwork  in  the  world.  , Statues  and  pottery  are  some  classic  , examples.</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201228Z" creationid="anas" creationdate="20220301T201228Z">
-        <seg>الصين لديها أقدم حضارة مستمرة في العالم. هناك أدلة أثرية على ذلك عمرها أكثر من 5000 عام. تمتلك الصين أيضًا أحد أقدم أنظمة الكتابة في العالم ، ويُنظر إليها على أنها مصدر للعديد من الاختراعات الكبرى. الصين هي موطن لبعض أقدم الأعمال الفنية في العالم. التماثيل والفخار هي بعض الأمثلة الكلاسيكية.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>China  is  the  fourth  largest  country  in  , the  world  (after  Russia,  Canada,  and  , the  United  States  of  America).  It  has  , an  area  of  3,719,275  square  miles  , (slightly  smaller  than  the  U.S.)  and  , its  borders  with  other  countries  total  , more  than  117,445  miles.  As  of  2013,  , China's  population  is  1.357  billion,  or  , 1,357,000,000.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160652Z" creationid="ansas" creationdate="20201209T160652Z">
@@ -746,14 +730,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123708Z" creationid="ansas" creationdate="20201206T123708Z">
         <seg>تستحوذ كوستاريكا على 0.03٪ فقط من سطح الكوكب ولكنها تمتلك 5٪ من تنوعها البيولوجي! هناك أكثر من 130 نوعًا من الأسماك و 220 نوعًا من الزواحف و 1000 نوع من الفراشات و 9000 نوع من النباتات و 20000 نوع من العناكب و 34000 نوع من الحشرات! أكثر من 25 ٪ من كوستاريكا ، والأراضي المحمية والمتنزهات الوطنية والملاجئ.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Country  music  has  its  roots  and  , beginnings  in  folk  music.  The  old  , cowboy  and  pioneer  songs  of  the  , American  frontier  were  popular  in  the  , early  twentieth  century,  and  so  were  , arrangements  of  pop  music  songs  by  , rural  (or  rural  sounding)  performers.  , Country  musicians  also  adapted  new  , musical  instruments,  like  the  Hawaiian  , steel  guitar.</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200430Z" creationid="anas" creationdate="20220301T200430Z">
-        <seg>موسيقى الريف لها جذورها وبداياتها في الموسيقى الشعبية. كانت الأغاني القديمة ورعاة البقر والرائدة في التخوم الأمريكية شائعة في أوائل القرن العشرين ، وكذلك كانت ترتيبات أغاني موسيقى البوب من قبل فناني الأداء الريفيين (أو الريفيين). قام موسيقيو الريف أيضًا بتكييف الآلات الموسيقية الجديدة مثل الغيتار الفولاذي من هاواي.</seg>
       </tuv>
     </tu>
     <tu>
@@ -952,8 +928,8 @@
       <tuv lang="en-US">
         <seg>Freedom  of  speech  is  the  right  to  , state  one's  opinions  and  ideas  without  , being  stopped  or  punished.  Sometimes  , this  is  also  called  freedom  of  , expression.  Freedom  of  speech  is  , thought  to  also  include  freedom  of  , information.  The  Freedom  of  Information  , Act  (FOIA)  in  the  USA  is  often  , described  as  the  law  that  keeps  , citizens  informed  about  their  government.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203217Z" creationid="ansas" creationdate="20201209T160525Z">
-        <seg>حرية التعبير هي الحق في التعبير عن آرائه وأفكاره دون إيقاف أو معاقبة. في بعض الأحيان ، يسمى هذا أيضًا حرية التعبير. يُعتقد أن حرية التعبير تشمل أيضًا حرية المعلومات. غالبًا ما يوصف قانون حرية المعلومات (فويا) في الولايات المتحدة بأنه القانون الذي يحافظ على إبلاغ المواطنين بحكومتهم.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160525Z" creationid="ansas" creationdate="20201209T160525Z">
+        <seg>حرية التعبير هي الحق في التعبير عن آرائه وأفكاره دون إيقاف أو معاقبة. في بعض الأحيان ، يسمى هذا أيضًا حرية التعبير. يُعتقد أن حرية التعبير تشمل أيضًا حرية المعلومات. غالبًا ما يوصف قانون حرية المعلومات (FOIA) في الولايات المتحدة بأنه القانون الذي يحافظ على إبلاغ المواطنين بحكومتهم.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1144,8 @@
       <tuv lang="en-US">
         <seg>In  Costa  Rica,  "Pura  vida"  is  the  , national  saying  which  translates  as  , "pure  life,"  a  sunny,  feel  good  , expression  used  as  a  greeting,  goodbye,  , or  if  someone  asks  how  you  are  doing.  , Costa  Rica  is  a  country  in  Central  , America.  Roughly  a  quarter  of  its  area  , is  made  up  of  protected  jungle,  , teeming  with  wildlife  including  sloths  , and  quetzal  birds.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202740Z" creationid="ansas" creationdate="20201209T150544Z">
-        <seg>في كوستاريكا ، "بيورا فيدا" هو المثل القومي الذي يترجم كـ "حياة نقية" ، مشمس ،و الشعور بالرضا ، تعبير يستخدم كتحية ، وداعًا ، أو إذا سأل أحدهم عن أحوالك. ، كوستاريكا بلد في وسط أمريكا. ما يقرب من ربع مساحتها ، تتكون من غابة محمية ، تعج بالحياة البرية بما في ذلك الكسلان ، وطيور الكيتزال.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T150544Z" creationid="ansas" creationdate="20201209T150544Z">
+        <seg>في كوستاريكا ، "Pura vida" هو المثل القومي الذي يترجم كـ "حياة نقية" ، مشمس ، أشعر بالرضا ، تعبير يستخدم كتحية ، وداعًا ، أو إذا سأل أحدهم عن أحوالك. ، كوستاريكا بلد في وسط أمريكا. ما يقرب من ربع مساحتها ، تتكون من غابة محمية ، تعج بالحياة البرية بما في ذلك الكسلان ، وطيور الكيتزال.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,16 +1312,8 @@
       <tuv lang="en-US">
         <seg>Little  Women  is  a  book  by  Louisa  May  , Alcott  published  in  1868.  The  story  is  , about  the  fictional  March  sisters,  who  , lived  in  the  time  of  the  American  , Civil  War.  Their  father  served  as  a  , chaplain  in  the  Union  Army.  The  author  , was  inspired  by  her  own  childhood  , experiences  when  writing  the  book.  The  , book  was  made  into  a  drama  film  in  , 1994.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202200Z" creationid="ansas" creationdate="20201209T145650Z">
-        <seg>المرأة الصغيرة  هو كتاب من تأليف لويزا ماي ، تم نشر الكوت  في عام 1868. تدور القصة حول أخوات مارتش الخيالية ، اللائي عاشن في زمن الحرب الأهلية الأمريكية. خدم والدهم كقسيس في جيش الاتحاد. استلهمت المؤلفة من طفولتها تجاربها عند كتابة الكتاب. تم تحويل الكتاب إلى فيلم درامي عام 1994.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Majority  rule  is  a  basic  principle  of  , democracy principle  principle  principle  principle  , principle, Our  school's  principal  is  a  kind  and  , intelligent  woman principal  principal  principal  principal  , principal, Their  principal  reminded  them  of  the  , principle  rule:  be  kind  to  others principle  principal  principle  principal</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201035Z" creationid="anas" creationdate="20220301T201035Z">
-        <seg>حكم الأغلبية هو مبدأ أساسي لـ ، مبدأ مبدأ مبدأ الديمقراطية ، المبدأ ، مدير مدرستنا هو امرأة لطيفة وذكية ، مدير رئيسي ، مدير ، مدير مدرسة ، ذكرهم بالقاعدة الأساسية: كن لطيفًا مع الآخرين المبدأ الأساسي المالك</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145650Z" creationid="ansas" creationdate="20201209T145650Z">
+        <seg>Little Women هو كتاب من تأليف Louisa May ، تم نشر Alcott في عام 1868. تدور القصة حول أخوات March الخيالية ، اللائي عاشن في زمن الحرب الأهلية الأمريكية. خدم والدهم كقسيس في جيش الاتحاد. استلهمت المؤلفة من طفولتها تجاربها عند كتابة الكتاب. تم تحويل الكتاب إلى فيلم درامي عام 1994.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,8 +1432,8 @@
       <tuv lang="en-US">
         <seg>Nefertiti  was  the  primary  wife  of  the  , Pharaoh  Akhenaten,  who  unsuccessfully  , tried  to  change  the  religion  of  Egypt.  , Akhenaten  was  then  succeeded  by  a  , pharaoh  referred  to  as  Smenkhare.  Some  , scientists  believe  Smenkhare  and  , Nefertiti  are  the  same  person.  Many  , think  the  queen  changed  her  name  , during  her  rule.  She  reigned  during  , the  wealthiest  period  of  Ancient  Egypt.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201644Z" creationid="ansas" creationdate="20201209T145212Z">
-        <seg>كانت نفرتيتي الزوجة الأساسية للفرعون إخناتون ، الذي حاول تغيير ديانة مصر دون جدوى. ، ثم خلف أخناتون فرعون يشار إليه باسم سمنخير. يعتقد بعض العلماء أن سمنخير و نيفرتيتي هما نفس الشخص. يعتقد الكثيرون أن الملكة غيرت اسمها خلال فترة حكمها. حكمت خلال أغنى فترة في مصر القديمة.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145212Z" creationid="ansas" creationdate="20201209T145212Z">
+        <seg>كانت نفرتيتي الزوجة الأساسية للفرعون إخناتون ، الذي حاول تغيير ديانة مصر دون جدوى. ، ثم خلف أخناتون فرعون يشار إليه باسم Smenkhare. يعتقد بعض العلماء أن Smenkhare و Nefertiti هما نفس الشخص. يعتقد الكثيرون أن الملكة غيرت اسمها خلال فترة حكمها. حكمت خلال أغنى فترة في مصر القديمة.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,14 +1758,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>She  wrote  the  date  on  the  calendar calendar  calendar  calendar  calendar  , calendar, He  was  not  particular  about  food.  He  , would  eat  anything particular  particular  particular  , particular  particular, Which  particular  calendar  did  you  want  , to  buy?, calendar  particular  calendar  particular</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201038Z" creationid="anas" creationdate="20220301T201038Z">
-        <seg>كتبت التاريخ على التقويم التقويم والتقويم والتقويم والتقويم ، ولم يكن خاصًا بالطعام. هو ، سيأكل شيئًا معينًا معينًا ، معينًا معينًا ، ما هو التقويم المحدد الذي تريد شراءه ؟، تقويم معين تقويم معين</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>She  wrote  the  date  on  the  calendar.&lt;span class="_enter"&gt; &lt;br/&gt;, calendar  calendar  calendar  calendar  , calendar&lt;span class="_enter"&gt; &lt;br/&gt;, He  was  not  particular  about  food.  He  , would  eat  anything.&lt;span class="_enter"&gt; &lt;br/&gt;, particular  particular  particular  , particular  particular&lt;span class="_enter"&gt; &lt;br/&gt;, Which  particular  calendar  did  you  want  , to  buy?&lt;span class="_enter"&gt; &lt;br/&gt;, calendar  particular  calendar  particular</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T140653Z" creationid="anas" creationdate="20220227T140653Z">
@@ -1818,14 +1778,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160527Z" creationid="ansas" creationdate="20201209T160527Z">
         <seg>الثلج شكل من أشكال الجليد. يتشكل الثلج ، عندما يتجمد الماء في الغلاف الجوي. يأتي الثلج في جميع الأشكال والأحجام المختلفة. عند نقطة التجمد ، يذوب الثلج ويصبح ماء. في بعض الأحيان ، يذوب الثلج بسرعة كبيرة ويصبح بخار الماء. وهذا ما يسمى التسامي. والعكس ، حيث يتحول بخار الماء إلى ثلج ، يسمى الترسيب.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Sometimes  it's  hard  to  understand  a  , difficult  subject it's  it's  it's  it's  it's, The  dog  turned  its  head  and  barked its  its  its  its  its, When  a  dog  is  wagging  its  tail,  it's  , usually  happy its  it's  its  it's  its</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201041Z" creationid="anas" creationdate="20220301T201041Z">
-        <seg>أحيانًا يكون من الصعب فهم موضوع صعب ، إنه الأمر ، لقد أدار الكلب رأسه ونبح ، إنه ملكه ، عندما يهز الكلب ذيله ، يكون عادةً سعيدًا إنه هو</seg>
       </tuv>
     </tu>
     <tu>
@@ -1872,8 +1824,8 @@
       <tuv lang="en-US">
         <seg>Strawberries  are  very  tasty,  and  very  , good  for  you.  They're  low  in  calories,  , and  contain  a  high  percentage  of  , several  vitamins,  including  C,  B6  and  , K.  Fibre,  folic  acid  and  potassium  , (three  things  your  body  needs)  can  , also  be  found  in  strawberries.  They  , are  a  delicious  treat  on  a  hot  summer  , day.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203126Z" creationid="ansas" creationdate="20201209T160517Z">
-        <seg>الفراولة لذيذة جدًا ، وهي جيدة جدًا لك. تحتوي على نسبة منخفضة من السعرات الحرارية ، وتحتوي على نسبة عالية من العديد من الفيتامينات ، بما في ذلك سي و بي6 و كاي والألياف وحمض الفوليك والبوتاسيوم (ثلاثة أشياء يحتاجها جسمك) ، ويمكن أيضًا العثور عليها في الفراولة. إنها حلوى لذيذة في يوم صيف حار.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160517Z" creationid="ansas" creationdate="20201209T160517Z">
+        <seg>الفراولة لذيذة جدًا ، وهي جيدة جدًا لك. تحتوي على نسبة منخفضة من السعرات الحرارية ، وتحتوي على نسبة عالية من العديد من الفيتامينات ، بما في ذلك C و B6 و K والألياف وحمض الفوليك والبوتاسيوم (ثلاثة أشياء يحتاجها جسمك) ، ويمكن أيضًا العثور عليها في الفراولة. إنها حلوى لذيذة في يوم صيف حار.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,14 +1834,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145213Z" creationid="ansas" creationdate="20201209T145213Z">
         <seg>يقوم المعلمون بتوجيه تعليم الطلاب وقد يعتمدون على العديد من الموضوعات ، بما في ذلك القراءة والكتابة والرياضيات والعلوم والتاريخ. في العديد من البلدان ، يجب أن يحصل المعلمون على شهادات أو شهادة جامعية من أجل التأهل لشغل منصب. ، يعمل المعلمون في جميع أنحاء العالم بجد لمساعدة الطلاب على التعلم.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Tell  your  friends  you  appreciate  them  , often appreciate  appreciate  appreciate  , appreciate  appreciate, He  would  exaggerate  about  how  fast  he  , could  type exaggerate  exaggerate  exaggerate  , exaggerate  exaggerate, I  do  not  exaggerate  when  I  say  how  , much  I  appreciate  you appreciate  exaggerate  appreciate  , exaggerate</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201030Z" creationid="anas" creationdate="20220301T201030Z">
-        <seg>أخبر أصدقاءك أنك تقدرهم ، غالبًا ما أقدر أقدر أقدر ، أقدر أقدر ، كان سيبالغ في مدى سرعته ، قد يكتب مبالغًا مبالغًا فيها ، يبالغ في المبالغة ، لا أبالغ عندما أقول كيف ، أنا أقدر تقديرك المبالغ فيه ، المبالغة</seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,14 +1850,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201207T180712Z" creationid="ansas" creationdate="20201207T180712Z">
         <seg>تقوم تايلاند بتربية وتدريب قرود المكاك ، وهي نوع من القرود الشائعة في المنطقة ، على قطف جوز الهند ، منذ حوالي 400 عام. يعتمد مزارعو جوز الهند في سريلانكا وماليزيا والهند وبلدان أخرى في المنطقة أحيانًا على القرود أيضًا. تحضر القرود مدرسة تدريب حيث يتعلمون قطف جوز الهند.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Their  teacher  said  they  were  the  best  , class their  their  their  their  their, They're  climbing  to  the  top  of  the  , mountain they're  they're  they're  they're  they're, There  are  so  many  monkeys  in  that  , tree!, there  there  there  there  there</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201003Z" creationid="anas" creationdate="20220301T201003Z">
-        <seg>قال معلمهم إنهم الأفضل ، صنفهم صفهم الخاص بهم ، إنهم يتسلقون إلى قمة الجبل ، إنهم هم هم ، هناك الكثير من القرود في ذلك ، شجرة !، هناك هناك هناك</seg>
       </tuv>
     </tu>
     <tu>
@@ -1960,8 +1896,8 @@
       <tuv lang="en-US">
         <seg>There  are  many  different  types  of  , social  media.  The  most  common  are  , personal  networks  like  Facebook,  where  , you  connect  with  other  people.  There  , are  media  sharing  sites  like  Instagram  , where  you  post  pictures.  There  are  , also  forums,  where  people  meet  to  chat  , about  specific  topics,  and  social  , publishing,  like  KidBlog  where  you  post  , longer  articles.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202248Z" creationid="ansas" creationdate="20201209T145659Z">
-        <seg>هناك أنواع مختلفة من وسائل التواصل الاجتماعي. الأكثر شيوعًا هي الشبكات الشخصية مثل فيسبوك ، حيث تتواصل مع أشخاص آخرين. هناك ، مواقع مشاركة الوسائط مثل انستغرام ، حيث تقوم بنشر الصور. هناك أيضًا منتديات ، حيث يلتقي الأشخاص للدردشة ، حول مواضيع محددة ، والنشر الاجتماعي ، مثل كيدبلوغ حيث تنشر ، مقالات أطول.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145659Z" creationid="ansas" creationdate="20201209T145659Z">
+        <seg>هناك أنواع مختلفة من وسائل التواصل الاجتماعي. الأكثر شيوعًا هي الشبكات الشخصية مثل Facebook ، حيث تتواصل مع أشخاص آخرين. هناك ، مواقع مشاركة الوسائط مثل Instagram ، حيث تقوم بنشر الصور. هناك أيضًا منتديات ، حيث يلتقي الأشخاص للدردشة ، حول مواضيع محددة ، والنشر الاجتماعي ، مثل KidBlog حيث تنشر ، مقالات أطول.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2034,14 +1970,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145207Z" creationid="ansas" creationdate="20201209T145207Z">
         <seg>الكوميديا الإلهية هي قصيدة ملحمية كتبها دانتي أليغييري. وهي مقسمة إلى ثلاثة أجزاء ، والجحيم هو الأكثر شهرة. كلمة "كوميديا" في العنوان لا تعني أن القصيدة مضحكة بل أن لها نهاية إيجابية. يجب أن يسافر دانتي عبر 9 دوائر متحدة المركز من المعاناة ليتم إنقاذها.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The  Electoral  College  consists  of  538  , electors.  A  majority  of  270  electoral  , votes  is  required  to  elect  the  , President.  Your  state's  entitled  , allotment  of  electors  equals  the  number  , of  members  in  its  Congressional  , delegation:  one  for  each  member  in  the  , House  of  Representatives  plus  two  for  , your  Senators.  The  president  of  the  , USA  gets  elected  every  four  years.</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203750Z" creationid="anas" creationdate="20220301T203750Z">
-        <seg>تتكون الهيئة الانتخابية من 538 ناخبا. أغلبية 270 صوتا ، الأصوات المطلوبة لانتخاب الرئيس. يساوي التخصيص المخول للولاية عدد الأعضاء في الكونجرس والوفد: واحد لكل عضو في مجلس النواب بالإضافة إلى اثنين لأعضاء مجلس الشيوخ. يتم انتخاب رئيس الولايات المتحدة الأمريكية كل أربع سنوات.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2120,8 +2048,8 @@
       <tuv lang="en-US">
         <seg>The  Old  Man  and  the  Sea  is  the  most  , famous  work  written  by  Ernest  , Hemingway.  The  story  is  centered  around  , an  old  Cuban  fisherman  Santiago,  who  , spends  84  days  fishing  without  catching  , anything.  On  the  85th  day,  his  bait  is  , finally  taken  by  a  big  fish  he  , believes  to  be  a  marlin.  The  story  , describes  the  fisherman's  battle  with  , the  marlin  and  his  journey  back  to  the  , shore.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203822Z" creationid="ansas" creationdate="20201209T160736Z">
-        <seg>الشيخ و البحر هو أشهر عمل كتبه إرنست ، همنغواي. تدور القصة حول صياد كوبي قديم ، سانتياغو ، يقضي 84 يومًا في الصيد دون أن يصطاد أي شيء. في اليوم الخامس والثمانين ، أخرج طعمه أخيرًا سمكة كبيرة يعتقد أنها مارلين. القصة ، تصف معركة الصياد مع المارلن ورحلته إلى الشاطئ.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160736Z" creationid="ansas" creationdate="20201209T160736Z">
+        <seg>The Old Man and the Sea هو أشهر عمل كتبه إرنست ، همنغواي. تدور القصة حول صياد كوبي قديم ، سانتياغو ، يقضي 84 يومًا في الصيد دون أن يصطاد أي شيء. في اليوم الخامس والثمانين ، أخرج طعمه أخيرًا سمكة كبيرة يعتقد أنها مارلين. القصة ، تصف معركة الصياد مع المارلن ورحلته إلى الشاطئ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2072,8 @@
       <tuv lang="en-US">
         <seg>The  Perseids  are  a  meteor  shower  , associated  with  the  comet  Swift-Tuttle.  , Their  name  is  due  to  the  fact  that  , they  appear  to  hail  from  the  , constellation  Perseus.  The  cloud  , consists  of  particles  ejected  by  the  , comet  as  it  travels  on  its  133-year  , orbit.  Most  of  the  particles  have  been  , part  of  the  cloud  for  around  a  , thousand  years.  During  its  peak,  the  , rate  of  meteors  reaches  60  or  more  per  , hour.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202543Z" creationid="ansas" creationdate="20201209T150528Z">
-        <seg>البرشاويات  هي عبارة عن دش نيزكي مرتبط بالمذنب سويفت تاتل . يرجع اسمهم إلى حقيقة أنهم ينحدرون من كوكبة فرساوس. تتكون السحابة من جسيمات يقذفها المذنب بينما يسافر في مداره البالغ 133 عامًا. معظم الجسيمات كانت جزءًا من السحابة منذ حوالي ألف عام. خلال ذروتها ، يصل معدل النيازك إلى 60 أو أكثر في الساعة.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T150528Z" creationid="ansas" creationdate="20201209T150528Z">
+        <seg>Perseids هي عبارة عن دش نيزكي مرتبط بالمذنب Swift-Tuttle. يرجع اسمهم إلى حقيقة أنهم ينحدرون من كوكبة فرساوس. تتكون السحابة من جسيمات يقذفها المذنب بينما يسافر في مداره البالغ 133 عامًا. معظم الجسيمات كانت جزءًا من السحابة منذ حوالي ألف عام. خلال ذروتها ، يصل معدل النيازك إلى 60 أو أكثر في الساعة.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,14 +2158,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  bright  flash  of  lightning  lit  up  , the  night  sky lightning  lightning  lightning  lightning  , lightnin The  sun  is  lightening  the  sky  as  it  , rises lightening  lightening  lightening  , lightening  lightenin Flashes  of  lightning  are  lightening  up  , the  sky lightning  lightening  lightning  lightening</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200945Z" creationid="anas" creationdate="20220301T200945Z">
-        <seg>أضاء وميض البرق ، سماء الليل ، برق ، برق ، برق ، برق ، الشمس تضيء السماء كما هي ، تشرق برق برق ، برق برق ومضات من برق تضيء ، سماء برق برق برق</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>The  bright  flash  of  lightning  lit  up  , the  night  sky.&lt;span class="_enter"&gt; &lt;br/&gt;, lightning  lightning  lightning  lightning  , lightning&lt;span class="_enter"&gt; &lt;br/&gt;, The  sun  is  lightening  the  sky  as  it  , rises.&lt;span class="_enter"&gt; &lt;br/&gt;, lightening  lightening  lightening  , lightening  lightening&lt;span class="_enter"&gt; &lt;br/&gt;, Flashes  of  lightning  are  lightening  up  , the  sky.&lt;span class="_enter"&gt; &lt;br/&gt;, lightning  lightening  lightning  lightening</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T140347Z" creationid="anas" creationdate="20220227T140347Z">
@@ -2294,14 +2214,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  first  woman  to  win  a  Nobel  Prize  , was  Marie  Sklodowska  Curie,  who  won  , the  Nobel  Prize  in  Physics  in  1903  , with  her  husband,  Pierre  Curie,  and  , Henri  Becquerel.  Curie  is  also  the  , only  woman  to  have  won  multiple  Nobel  , Prizes;  in  1911,  she  won  the  Nobel  , Prize  in  Chemistry.  Curie's  daughter,  , Irene  Joliot-Curie,  won  the  Nobel  Prize  , in  Chemistry  in  1935.</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201249Z" creationid="anas" creationdate="20220301T201249Z">
-        <seg>كانت ماري سكلودوفسكا كوري أول امرأة تفوز بجائزة نوبل ، وفازت بجائزة نوبل في الفيزياء عام 1903 مع زوجها بيير كوري وهنري بيكريل. كوري هي أيضًا المرأة الوحيدة التي فازت بالعديد من جوائز نوبل ؛ في عام 1911 ، حصلت على جائزة نوبل في الكيمياء. فازت ابنة كوري ، إيرين جوليو كوري ، بجائزة نوبل في الكيمياء عام 1935.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>The  four  farthest  planets  in  the  solar  , system,  Jupiter,  Saturn,  Uranus,  and  , Neptune,  are  called  gas  giants.  This  , is  because  they  are  large  planets  that  , are  mostly  made  of  gas,  such  as  , hydrogen  and  helium,  with  a  relatively  , small  rocky  core.  Even  though  they  are  , made  of  gas,  they  have  significantly  , more  mass  than  the  terrestrial  planets.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201207T180143Z" creationid="ansas" creationdate="20201207T180143Z">
@@ -2314,14 +2226,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174131Z" creationid="ansas" creationdate="20201207T174131Z">
         <seg>تشكل الكواكب الخارجية الأربعة ، أو عمالقة الغاز ، مجتمعة 99٪ من الكتلة ، والمعروف أنها تدور حول الشمس. كوكب المشتري وزحل كل منهما تساوي عشرات المرات كتلة الأرض ويتكونان بأغلبية ساحقة من الهيدروجين والهيليوم. وأورانوس ونبتون أقل كثافة بكثير (أقل من 20 كتلة أرضية) ويمتلكان المزيد من الجليد في تركيبتهما.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>The  general  concept  of  human  posture  , refers  to  the  "carriage  of  the  body  as  , a  whole,  the  attitude  of  the  body,  or  , the  position  of  the  limbs."  Good  , posture  helps  improve  our  , concentration,  letting  us  work  longer  , and  harder.  It  also  prevents  sore  , muscles,  leading  us  to  feel  happier  , and  healthier  both  at  and  away  from  , the  computer.</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202012Z" creationid="anas" creationdate="20220301T202012Z">
-        <seg>يشير المفهوم العام لوضعية الإنسان إلى "حمل الجسد ككل ، موقف الجسد ، أو موقع الأطراف". تساعد الوضعية الجيدة في تحسين تركيزنا ، مما يتيح لنا العمل لفترة أطول وبصورة أكبر. كما أنه يمنع آلام العضلات ، مما يجعلنا نشعر بسعادة أكبر وصحة أفضل سواء في الكمبيوتر أو بعيدًا عنه.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,8 +2296,8 @@
       <tuv lang="en-US">
         <seg>The  oldest  part  of  New  York  City,  the  , island  of  Manhattan,  still  has  its  , original  Lenape  Native  American  name.  , Although  native  people  such  as  the  , Lenape  and  Canarsees  had  lived  there  , for  many  thousands  of  years,  New  York  , City  was  first  explored  by  Europeans  , in  the  1500s.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T195836Z" creationid="ansas" creationdate="20201206T113521Z">
-        <seg>الجزء الأقدم من مدينة نيويورك ، جزيرة مانهاتن ، لا يزال يحمل اسم ليناب الأصلي الأمريكي الأصلي. ، على الرغم من أن السكان الأصليين مثل ال ، لينابي وكانارسي كانوا قد عاشوا هناك ، لآلاف السنين ، اكتشف الأوروبيون مدينة نيويورك لأول مرة في القرن السادس عشر.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113521Z" creationid="ansas" creationdate="20201206T113521Z">
+        <seg>الجزء الأقدم من مدينة نيويورك ، جزيرة مانهاتن ، لا يزال يحمل اسم Lenape الأصلي الأمريكي الأصلي. ، على الرغم من أن السكان الأصليين مثل ال ، لينابي وكانارسي كانوا قد عاشوا هناك ، لآلاف السنين ، اكتشف الأوروبيون مدينة نيويورك لأول مرة في القرن السادس عشر.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2470,14 +2374,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  weather  is  supposed  to  be  warmer  , tomorrow weather  weather  weather  weather  weather, You  can  still  come  whether  or  not  you  , are  invited whether  whether  whether  whether  whether, Whether  the  weather  is  good,  or  , whether  the  weather  is  bad,  whatever  , the  weather,  we'll  weather  together weather  whether  weather  whether</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200937Z" creationid="anas" creationdate="20220301T200937Z">
-        <seg>من المفترض أن يكون الطقس أكثر دفئًا ، الطقس غدًا ، الطقس ، الطقس ، الطقس ، لا يزال بإمكانك الحضور سواء كنت مدعوًا أم لا ، سواء أكان سواء أكان الطقس جيدًا أم الطقس سيئًا أم لا. ، سنتعامل مع الطقس معًا سواء كان الطقس</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>The  weather  is  supposed  to  be  warmer  , tomorrow.&lt;span class="_enter"&gt; &lt;br/&gt;, weather  weather  weather  weather  weather&lt;span class="_enter"&gt; &lt;br/&gt;, You  can  still  come  whether  or  not  you  , are  invited.&lt;span class="_enter"&gt; &lt;br/&gt;, whether  whether  whether  whether  whether&lt;span class="_enter"&gt; &lt;br/&gt;, Whether  the  weather  is  good,  or  , whether  the  weather  is  bad,  whatever  , the  weather,  we'll  weather  together.&lt;span class="_enter"&gt; &lt;br/&gt;, weather  whether  weather  whether</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220301T194755Z" creationid="anas" creationdate="20220227T140319Z">
@@ -2506,14 +2402,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201207T173805Z" creationid="ansas" creationdate="20201207T173805Z">
         <seg>وُلد توماس جيفرسون ، الثالث من بين عشرة أطفال ، في 13 أبريل 1743 في شادويل بولاية فيرجينيا لعائلة مزارع. كان والديه بيتر وجين جيفرسون. كان لديه ست شقيقات وثلاثة أشقاء. بدأ جيفرسون في التاسعة من عمره بدراسة اللاتينية واليونانية والفرنسية. كما تعلم ركوب الخيل ، وبدأ في دراسة الطبيعة.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Though  she  be  but  little,  she  is  , fierce though  though  though  though  though, He  gave  a  thorough  explanation  of  the  , math  principle thorough  thorough  thorough  thorough  , thorough, Even  though  he  was  thorough,  he  still  , made  a  mistake though  thorough  though  thorough</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201045Z" creationid="anas" creationdate="20220301T201045Z">
-        <seg>على الرغم من أنها ليست سوى صغيرة ، إلا أنها شرسة على الرغم من أنه على الرغم من ذلك ، فقد قدم شرحًا شاملاً لمبدأ الرياضيات شاملًا وشاملاً وشاملاً ، على الرغم من أنه كان دقيقًا ، إلا أنه ارتكب خطأ بالرغم من أنه شامل</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,26 +2486,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Water  is  a  molecule  made  of  2  hydrogen  , atoms  and  1  oxygen  atom.  Its  chemical  , formula  is  H2O.  Water  has  surface  , tension,  so  a  little  bit  of  water  , makes  drops  rather  than  spreading  out  , over  the  surface.  Though  a  human  being  , can  survive  for  up  to  a  week  without  , food,  they  can  only  survive  for  a  day  , or  two  without  water.</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201233Z" creationid="anas" creationdate="20220301T201233Z">
-        <seg>الماء عبارة عن جزيء مكون من 2 هيدروجين وذرة وذرة أكسجين. تركيبته الكيميائية هي H2O. الماء له سطح وتوتر ، لذا فإن القليل من الماء يصنع قطرات بدلاً من أن ينتشر على السطح. على الرغم من أن الإنسان يمكنه البقاء على قيد الحياة لمدة تصل إلى أسبوع بدون طعام ، إلا أنه لا يمكنه العيش إلا ليوم واحد أو يومين بدون ماء.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Weather  is  the  state  of  the  atmosphere  , at  any  time,  including  things  such  as  , temperature,  precipitation,  air  , pressure,  and  cloud  cover.  Daily  , changes  in  the  weather  are  due  to  , winds  and  storms.  Seasonal  changes  are  , due  to  the  Earth  revolving  around  the  , sun.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113253Z" creationid="ansas" creationdate="20201206T113253Z">
         <seg>الطقس هو حالة الغلاف الجوي ، في أي وقت ، بما في ذلك أشياء مثل درجة الحرارة ، وهطول الأمطار ، والهواء ، والضغط ، والغطاء السحابي. يوميا ، التغيرات في الطقس بسبب الرياح والعواصف. التغيرات الموسمية هي بسبب الأرض تدور حول الشمس.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>We  should  do  all  we  can  to  save  the  , environment environment  environment  environment  , environment  environment, Use  your  best  judgment  when  making  , choices judgment  judgment  judgment  judgment  , judgment, Good  judgment  can  save  the  environment environment  judgment  environment  judgment</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200950Z" creationid="anas" creationdate="20220301T200950Z">
-        <seg>يجب أن نبذل كل ما في وسعنا لإنقاذ البيئة والبيئة والبيئة والبيئة واستخدام أفضل حكم عند اتخاذ القرارات وحكم الخيارات على الحكم والحكم والحكم الجيد يمكن أن ينقذ البيئة بيئة الحكم على البيئة</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,16 +2600,8 @@
       <tuv lang="en-US">
         <seg>Words  per  minute  (WPM)  is  a  measure  of  , input  or  output  speed.  For  the  , purposes  of  WPM  measurement,  a  word  is  , standardized  to  five  characters  or  , keystrokes.  The  average  person  types  , around  40  words  per  minute.  However,  , professional  typists  type  a  lot  faster.  , On  average,  professional  typists  can  , type  upwards  of  65  to  80  WPM.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201610Z" creationid="ansas" creationdate="20201209T145206Z">
-        <seg>الكلمات في الدقيقة (كفد) هي مقياس لسرعة الإدخال أو الإخراج. لأغراض قياس كفد ، تكون الكلمة موحدة إلى خمسة أحرف أو ضغطات المفاتيح. يكتب الشخص العادي ، حوالي 40 كلمة في الدقيقة. ومع ذلك ، فإن الطابعين المحترفين يكتبون بشكل أسرع. ، في المتوسط ، يمكن للكاتبين المحترفين كتابة ما يزيد عن 65 إلى 80 كفد.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You  should  keep  your  personal  , belongings  safe personal  personal  personal  personal  , personal, The  company's  personnel  were  trained  , well personnel  personnel  personnel  personnel  , personnel, The  company's  personnel  each  have  a  , personal  laptop personal  personnel  personal  personnel</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201021Z" creationid="anas" creationdate="20220301T201021Z">
-        <seg>يجب أن تحافظ على أمتعتك الشخصية وآمنة وشخصية وشخصية وشخصية وشخصية ، وقد تم تدريب موظفي الشركة ، وموظفي الشركة بشكل جيد ، والموظفين ، والموظفين ، وموظفي الشركة لديهم جهاز كمبيوتر محمول شخصي ، وموظف شخصي شخصي</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145206Z" creationid="ansas" creationdate="20201209T145206Z">
+        <seg>الكلمات في الدقيقة (WPM) هي مقياس لسرعة الإدخال أو الإخراج. لأغراض قياس WPM ، تكون الكلمة موحدة إلى خمسة أحرف أو ضغطات المفاتيح. يكتب الشخص العادي ، حوالي 40 كلمة في الدقيقة. ومع ذلك ، فإن الطابعين المحترفين يكتبون بشكل أسرع. ، في المتوسط ، يمكن للكاتبين المحترفين كتابة ما يزيد عن 65 إلى 80 WPM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,26 +2862,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>ill  ill  ill  ill  ill  ill, fill  still  fill  still  fill  still, ill  ill  ill  ill  ill  ill, bill  kill  bill  kill  bill  kill, ill  ill  ill  ill  ill  ill, will  pill  will  pill  will  pill</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200057Z" creationid="anas" creationdate="20220301T200057Z">
-        <seg>مريض مريض مريض مريض ، تملأ ما زال ممتلئًا ، مريض مريض مريض مريض ، بيل اقتل فاتورة قتل بيل ، مريض مريض ، مريض ، سوف حبوب منع الحمل سوف حبوب منع الحمل</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>ill  ill  ill  ill  ill  ill&lt;span class="_enter"&gt; &lt;br/&gt;, fill  still  fill  still  fill  still&lt;span class="_enter"&gt; &lt;br/&gt;, ill  ill  ill  ill  ill  ill&lt;span class="_enter"&gt; &lt;br/&gt;, bill  kill  bill  kill  bill  kill&lt;span class="_enter"&gt; &lt;br/&gt;, ill  ill  ill  ill  ill  ill&lt;span class="_enter"&gt; &lt;br/&gt;, will  pill  will  pill  will  pill</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T135526Z" creationid="anas" creationdate="20220227T135526Z">
         <seg>ill  ill  ill  ill  ill  ill fill  still  fill  still  fill  still ill  ill  ill  ill  ill  ill, bill  kill  bill  kill  bill  kill ill  ill  ill  ill  ill  illwill  pill  will  pill  will  pill</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ink  ink  ink  ink  ink  ink, think  sink  think  sink  think  sink, ink  ink  ink  ink  ink  ink, pink  link  pink  link  pink  link, ink  ink  ink  ink  ink  ink, drink  wink  drink  wink  drink  wink</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200106Z" creationid="anas" creationdate="20220301T200106Z">
-        <seg>حبر حبر حبر حبر حبر ، فكر بالوعة فكر بالوعة فكر بالوعة ، حبر حبر حبر حبر حبر ، رابط وردي رابط وردي رابط وردي ، حبر حبر حبر حبر حبر ، غمزة شراب ، شرب غمزة ، شرب غمزة</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,18 +2926,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>minus-  and  equal=  symbols  are-  typed  , with=  the  -same-  finger=</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200735Z" creationid="anas" creationdate="20220301T200735Z">
-        <seg>ناقص ومتساوي = يتم كتابة الرموز ، مع = نفس الإصبع =</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>open{  and  closed}  curly{}  brackets  are  , {also}  used  frequently  {in}  coding</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200754Z" creationid="anas" creationdate="20220301T194301Z">
-        <seg>الأقواس المفتوحة {والمغلقة} المتعرجة {} ، {أيضًا} تستخدم بشكل متكرر {في} في الترميز</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T194301Z" creationid="anas" creationdate="20220301T194301Z">
+        <seg>الأقواس المفتوحة {والمغلقة} المتعرجة {} ، {أيضًا} تستخدم بشكل متكرر {in} في الترميز</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,14 +2954,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T141440Z" creationid="anas" creationdate="20220227T141440Z">
         <seg>rc  rc  erc  urc  percent  churches  , research ia  ia  pia  sia  caspian  asian  indian ex  ex  mex  exi  mexico  example  mexico sc  sc  isc  sci  science  schools  , discovered</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>rea  rea  rea  rea  rea  rea, area  reason  area  reason  area  reason, rea  rea  rea  rea  rea  rea, real  reach  real  reach  real  reach, rea  rea  rea  rea  rea  rea, read  react  read  react  read  react</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200108Z" creationid="anas" creationdate="20220301T200108Z">
-        <seg>رد الفعل الحقيقي ، والسبب في المنطقة ، والسبب في المنطقة ، والفاعلية ، والفاعلية ، والفاعلية ، والفاعلية ، والفاعلية ، والقراءة ، والرد ، والرد ، والرد ، والرد.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3158,26 +2990,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>some`  symbols~  are`  kind~  of`  , difficult~  to  master`</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200720Z" creationid="anas" creationdate="20220301T200720Z">
-        <seg>بعض` الرموز ~ من` النوع ، يصعب` إتقانها</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>some|more|examples  \of\symbols\  are  the  , |pipe|  and  \back\slash  symbols</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220301T194306Z" creationid="anas" creationdate="20220301T194306Z">
         <seg>بعض | المزيد | أمثلة \ من \ الرموز \ هي ، | الأنبوب | و \ للخلف \ رموز الشرطة المائلة</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>son  son  son  son  son  son, reason  person  reason  person  reason  , person, son  son  son  son  son  son, treason  season  treason  season  treason  , season, son  son  son  son  son  son, lesson  grandson  lesson  grandson  lesson  , grandson</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200103Z" creationid="anas" creationdate="20220301T200103Z">
-        <seg>الابن الابن الابن الابن الابن العقل الشخص السبب الشخص الشخص السبب الابن الابن الابن الابن الابن موسم الخيانة موسم الخيانة خيانة الموسم الابن الابن الابن الابن الابن الدرس الحفيد درس الحفيد الحفيد</seg>
       </tuv>
     </tu>
     <tu>
@@ -3202,22 +3018,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220301T194245Z" creationid="anas" creationdate="20220301T194245Z">
         <seg>wd cz ip ls SQ Kp s</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>we  don't  always  use  "special  symbols"  , in  normal  text</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200730Z" creationid="anas" creationdate="20220301T200730Z">
-        <seg>لا نستخدم دائمًا "رموزًا خاصة" في النص العادي</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>you  you  you  you  you  you, youth  young  youth  young  youth  young, you  you  you  you  you  you, layout  yourself  layout  yourself  layout  , yourself, you  you  you  you  you  you, tryout  payout  tryout  payout  tryout  , payout</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200351Z" creationid="anas" creationdate="20220301T200351Z">
-        <seg>انت انت انت انت انت انت شباب شاب شباب شاب شباب شاب انت انت انت انت انت انت انت طبقة نفسك طبقة نفسك طبقة نفسك انت انت انت انت انت حاول ادفع حاول ادفع حاول  ادفع </seg>
       </tuv>
     </tu>
     <tu>
