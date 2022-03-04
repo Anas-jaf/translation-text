@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%inside  ^power  %famous  ^south  %children  , %smell  ^river%  ^follow  %piece^  united%  , ^break  %example  quick^  @cloud  billion^</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124145Z" creationid="anas" creationdate="20220304T124145Z">
+        <seg>٪ من الداخل ^ الطاقة٪ مشهور ^ جنوب٪ أطفال ،٪ رائحة ^ نهر٪ ^ تابع٪ قطعة ^ متحد٪ ، ^ كسر٪ مثال سريع ^ @ سحابة مليار ^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1  is  the  only  one  0  is  none  11  is  , more  and  10  is  less  100  is  a  lot  but  , 1000  is  even  more  learn  the  numbers  , and  you  should  know  more  1010101  type  , the  key  1  and  next  type  the  key  0</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T114533Z" creationid="anas" creationdate="20220227T114533Z">
@@ -846,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E2  is  equal  to  (m0c2)2  plus  (pc)2 where #1  E  represents  the  energy  of  a  , particle #2  m0  represents  the  mass  of  the  , particle  when  it  is  not  moving #3  p  represents  the  momentum  of  the  , particle  when  it  is  moving #4  c  represents  the  speed  of  light.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124454Z" creationid="anas" creationdate="20220304T124413Z">
+        <seg>ي2 تساوي (م0ك2) 2 زائد (ب س) 2 ، أين # ي1 يمثل طاقة الجسيم #2 م0 تمثل كتلة الجسيم عندما لا يتحرك # 3 ب تمثل زخم الجسيم عندما يتحرك  # 4 ج تمثل سرعة الضوء.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E2  is  equal  to  (m0c2)2  plus  (pc)2&lt;span class="_enter"&gt; &lt;br/&gt;, where&lt;span class="_enter"&gt; &lt;br/&gt;, #1  E  represents  the  energy  of  a  , particle&lt;span class="_enter"&gt; &lt;br/&gt;, #2  m0  represents  the  mass  of  the  , particle  when  it  is  not  moving&lt;span class="_enter"&gt; &lt;br/&gt;, #3  p  represents  the  momentum  of  the  , particle  when  it  is  moving&lt;span class="_enter"&gt; &lt;br/&gt;, #4  c  represents  the  speed  of  light.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120331Z" creationid="ansas" creationdate="20201206T120331Z">
@@ -1254,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>J&amp;amp;  U&amp;amp;  M&amp;amp;  J&amp;amp;  U&amp;amp;  M&amp;amp;  J&amp;amp;U&amp;amp;M&amp;amp;  J&amp;amp;U&amp;amp;M&amp;amp;  , &amp;amp;U&amp;amp;J&amp;amp;M  &amp;amp;J&amp;amp;M&amp;amp;U  &amp;amp;M&amp;amp;J&amp;amp;U</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124211Z" creationid="anas" creationdate="20220304T124211Z">
+        <seg>ب$ب$  ت&amp;شةحكت&amp;شةحك  ب$ت&amp;شةحك  تت&amp;شةحك  $ببت  &amp;شةحك$تب  $&amp;شةحكبت  تب&amp;شةحك$  , $$&amp;شةحك&amp;شةحك  $ب&amp;شةحكت  &amp;شةحكت$ب  ت$&amp;شةحكب  $$&amp;شةحكت  &amp;شةحك$تب  ت&amp;شةحكت$&amp;شةحك$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jane  Eyre  is  a  popular  love  story  , written  by  Charlotte  Bronte.  The  book  , tells  a  story  of  a  young  orphan  Jane  , who  falls  in  love  with  Mr.  Rochester.  , Jane  soon  learns  that  he  is  already  , married  to  a  crazy  woman  and  decides  , to  leave  him.  A  few  years  later,  after  , almost  agreeing  to  marry  another  man,  , she  returns  to  marry  Mr.  Rochester  , after  his  wife's  death.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201209T150517Z" creationid="ansas" creationdate="20201209T150517Z">
@@ -1280,8 +1304,8 @@
       <tuv lang="en-US">
         <seg>K*  I*  K*  K*  I*  I*  K*I*K*  K*I*K*  , *I*K*I  *K*I*K  K*I*K*</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135413Z" creationid="anas" creationdate="20220227T135413Z">
-        <seg>ي#ن*  ي#ن*  ي#ن*  نن*  #يي*  ن#*ين  *#ني*  , نن#*ين  ن*#ن  #*ين#  ن*#ي  ي#*  ن#ي*  ن  #  *  , يK*  I*  K*  K*  I*  I*  K*I*K*  K*I*K*  , *I*K*I  *K*I*K  K*I*K*</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124219Z" creationid="anas" creationdate="20220227T135413Z">
+        <seg>ي#ن*  ي#ن*  ي#ن*  نن*  #يي*  ن#*ين  *#ني*  , نن#*ين  ن*#ن  #*ين#  ن*#ي  ي#*  ن#ي*  ن  #  *  , ي*</seg>
       </tuv>
     </tu>
     <tu>
@@ -2038,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The  Electoral  College  consists  of  538  , electors.  A  majority  of  270  electoral  , votes  is  required  to  elect  the  , President.  Your  state's  entitled  , allotment  of  electors  equals  the  number  , of  members  in  its  Congressional  , delegation:  one  for  each  member  in  the  , House  of  Representatives  plus  two  for  , your  Senators.  The  president  of  the  , USA  gets  elected  every  four  years.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203750Z" creationid="anas" creationdate="20220301T203750Z">
+        <seg>تتكون الهيئة الانتخابية من 538 ناخبا. أغلبية 270 صوتا ، الأصوات المطلوبة لانتخاب الرئيس. يساوي التخصيص المخول للولاية عدد الأعضاء في الكونجرس والوفد: واحد لكل عضو في مجلس النواب بالإضافة إلى اثنين لأعضاء مجلس الشيوخ. يتم انتخاب رئيس الولايات المتحدة الأمريكية كل أربع سنوات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The  Falkland  Islands  are  an  archipelago  , off  the  coast  of  Argentina  in  the  , South  Atlantic  Ocean.  They  have  about  , 167  sheep  for  every  person  that  lives  , there!  The  total  population  of  the  , islands  is  about  3,000  people,  and  , there  are  over  500,000  sheep.  As  you  , might  guess,  wool  is  a  major  export  , from  these  islands.  You  can  also  find  , penguins  there.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160653Z" creationid="ansas" creationdate="20201209T160653Z">
@@ -2112,8 +2144,8 @@
       <tuv lang="en-US">
         <seg>The  Old  Man  and  the  Sea  is  the  most  , famous  work  written  by  Ernest  , Hemingway.  The  story  is  centered  around  , an  old  Cuban  fisherman  Santiago,  who  , spends  84  days  fishing  without  catching  , anything.  On  the  85th  day,  his  bait  is  , finally  taken  by  a  big  fish  he  , believes  to  be  a  marlin.  The  story  , describes  the  fisherman's  battle  with  , the  marlin  and  his  journey  back  to  the  , shore.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160736Z" creationid="ansas" creationdate="20201209T160736Z">
-        <seg>The Old Man and the Sea هو أشهر عمل كتبه إرنست ، همنغواي. تدور القصة حول صياد كوبي قديم ، سانتياغو ، يقضي 84 يومًا في الصيد دون أن يصطاد أي شيء. في اليوم الخامس والثمانين ، أخرج طعمه أخيرًا سمكة كبيرة يعتقد أنها مارلين. القصة ، تصف معركة الصياد مع المارلن ورحلته إلى الشاطئ.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203822Z" creationid="ansas" creationdate="20201209T160736Z">
+        <seg>الشيخ و البحر هو أشهر عمل كتبه إرنست ، همنغواي. تدور القصة حول صياد كوبي قديم ، سانتياغو ، يقضي 84 يومًا في الصيد دون أن يصطاد أي شيء. في اليوم الخامس والثمانين ، أخرج طعمه أخيرًا سمكة كبيرة يعتقد أنها مارلين. القصة ، تصف معركة الصياد مع المارلن ورحلته إلى الشاطئ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2238,10 +2270,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The  c2  in  the  equation  stands  for  the  , speed  of  light  squared.  To  square  , something  means  to  multiply  it  by  , itself,  so  it  is  approximately (3  *  108)2  is  equal  to  (9  *  1016)  , meters2/seconds2  is  equal  to  , 90,000,000,000,000,000  meters2/seconds2.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124624Z" creationid="anas" creationdate="20220304T124624Z">
+        <seg>يرمز سي2 في المعادلة إلى مربع سرعة الضوء. للتربيع ، يعني شيء ما ضربه في نفسه ، لذا فهو تقريبًا  (3 * 108) 2 يساوي (9 * 1016) ، متر 2 / ثانية 2 يساوي ، 90.000.000.000.000.000 متر 2 / ثانية 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The  c2  in  the  equation  stands  for  the  , speed  of  light  squared.  To  square  , something  means  to  multiply  it  by  , itself,  so  it  is  approximately&lt;span class="_enter"&gt; &lt;br/&gt;, (3  *  108)2  is  equal  to  (9  *  1016)  , meters2/seconds2  is  equal  to  , 90,000,000,000,000,000  meters2/seconds2.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120426Z" creationid="ansas" creationdate="20201206T120426Z">
-        <seg>يرمز c2 في المعادلة إلى مربع سرعة الضوء. للتربيع ، يعني شيء ما ضربه في نفسه ، لذا فهو تقريبًا  (3 * 108) 2 يساوي (9 * 1016) ، متر 2 / ثانية 2 يساوي ، 90.000.000.000.000.000 متر 2 / ثانية 2.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124601Z" creationid="ansas" creationdate="20201206T120426Z">
+        <seg>يرمز سي2 في المعادلة إلى مربع سرعة الضوء. للتربيع ، يعني شيء ما ضربه في نفسه ، لذا فهو تقريبًا  (3 * 108) 2 يساوي (9 * 1016) ، متر 2 / ثانية 2 يساوي ، 90.000.000.000.000.000 متر 2 / ثانية 2.</seg>
       </tuv>
     </tu>
     <tu>

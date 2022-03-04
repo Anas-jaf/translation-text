@@ -854,14 +854,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>E2  is  equal  to  (m0c2)2  plus  (pc)2 where #1  E  represents  the  energy  of  a  , particle #2  m0  represents  the  mass  of  the  , particle  when  it  is  not  moving #3  p  represents  the  momentum  of  the  , particle  when  it  is  moving #4  c  represents  the  speed  of  light.</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124454Z" creationid="anas" creationdate="20220304T124413Z">
-        <seg>ي2 تساوي (م0ك2) 2 زائد (ب س) 2 ، أين # ي1 يمثل طاقة الجسيم #2 م0 تمثل كتلة الجسيم عندما لا يتحرك # 3 ب تمثل زخم الجسيم عندما يتحرك  # 4 ج تمثل سرعة الضوء.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>E2  is  equal  to  (m0c2)2  plus  (pc)2&lt;span class="_enter"&gt; &lt;br/&gt;, where&lt;span class="_enter"&gt; &lt;br/&gt;, #1  E  represents  the  energy  of  a  , particle&lt;span class="_enter"&gt; &lt;br/&gt;, #2  m0  represents  the  mass  of  the  , particle  when  it  is  not  moving&lt;span class="_enter"&gt; &lt;br/&gt;, #3  p  represents  the  momentum  of  the  , particle  when  it  is  moving&lt;span class="_enter"&gt; &lt;br/&gt;, #4  c  represents  the  speed  of  light.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120331Z" creationid="ansas" creationdate="20201206T120331Z">
@@ -2270,18 +2262,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  c2  in  the  equation  stands  for  the  , speed  of  light  squared.  To  square  , something  means  to  multiply  it  by  , itself,  so  it  is  approximately (3  *  108)2  is  equal  to  (9  *  1016)  , meters2/seconds2  is  equal  to  , 90,000,000,000,000,000  meters2/seconds2.</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124624Z" creationid="anas" creationdate="20220304T124624Z">
-        <seg>يرمز سي2 في المعادلة إلى مربع سرعة الضوء. للتربيع ، يعني شيء ما ضربه في نفسه ، لذا فهو تقريبًا  (3 * 108) 2 يساوي (9 * 1016) ، متر 2 / ثانية 2 يساوي ، 90.000.000.000.000.000 متر 2 / ثانية 2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>The  c2  in  the  equation  stands  for  the  , speed  of  light  squared.  To  square  , something  means  to  multiply  it  by  , itself,  so  it  is  approximately&lt;span class="_enter"&gt; &lt;br/&gt;, (3  *  108)2  is  equal  to  (9  *  1016)  , meters2/seconds2  is  equal  to  , 90,000,000,000,000,000  meters2/seconds2.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124601Z" creationid="ansas" creationdate="20201206T120426Z">
-        <seg>يرمز سي2 في المعادلة إلى مربع سرعة الضوء. للتربيع ، يعني شيء ما ضربه في نفسه ، لذا فهو تقريبًا  (3 * 108) 2 يساوي (9 * 1016) ، متر 2 / ثانية 2 يساوي ، 90.000.000.000.000.000 متر 2 / ثانية 2.</seg>
+      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120426Z" creationid="ansas" creationdate="20201206T120426Z">
+        <seg>يرمز c2 في المعادلة إلى مربع سرعة الضوء. للتربيع ، يعني شيء ما ضربه في نفسه ، لذا فهو تقريبًا  (3 * 108) 2 يساوي (9 * 1016) ، متر 2 / ثانية 2 يساوي ، 90.000.000.000.000.000 متر 2 / ثانية 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,14 +2990,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>gn  gn  ign  agn  signals  electromagnetic  , signals, mb  mb  emb  umb  december  december  , numbers, eg  eg  beg  leg  beginning  beginning  , college, ex  ex  mex  ext  extent  extent  mexican</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220304T125030Z" creationid="anas" creationdate="20220304T125030Z">
-        <seg>إشارات gn gn ign agn كهرومغناطيسية ، إشارات ، mb mb emb umb ديسمبر ديسمبر ، أرقام ، على سبيل المثال ، بداية بداية الساق ، بداية الكلية ، ex ex mex ext مدى المدى المكسيكي</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>gn  gn  ign  agn  signals  electromagnetic  , signals&lt;span class="_enter"&gt; &lt;br/&gt;, mb  mb  emb  umb  december  december  , numbers&lt;span class="_enter"&gt; &lt;br/&gt;, eg  eg  beg  leg  beginning  beginning  , college&lt;span class="_enter"&gt; &lt;br/&gt;, ex  ex  mex  ext  extent  extent  mexican&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T140902Z" creationid="anas" creationdate="20220227T140902Z">
@@ -3226,14 +3202,6 @@
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T135551Z" creationid="anas" creationdate="20220227T135551Z">
         <seg>son  son  son  son  son  son reason  person  reason  person  reason  , person son  son  son  son  son  son, treason  season  treason  season  treason  , season son  son  son  son  son  son lesson  grandson  lesson  grandson  lesson  , grandson</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>there  are  &amp;lt;two&amp;gt;  more  symbols  &amp;gt;to&amp;lt;  , learn.  The  less&amp;lt;than  and  greater&amp;gt;than  , signs.</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220304T125013Z" creationid="anas" creationdate="20220304T125013Z">
-        <seg>هناك &lt;اثنان&gt; المزيد من الرموز&gt; &lt;، التعلم. علامات أصغر &lt;وأكبر&gt; من.</seg>
       </tuv>
     </tu>
     <tu>
