@@ -16,8 +16,8 @@
       <tuv lang="en-US">
         <seg>"A  friend  is  someone  who  knows  all  , about  you  and  still  loves  you."  Elbert  , Hubbard  was  an  American  writer,  , publisher,  artist,  and  philosopher  in  , the  late  19th  century  and  early  20th  , century.  He  is  well  known  for  founding  , an  Arts  &amp;amp;  Crafts  community  in  East  , Aurora,  New  York  called  Roycroft.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160632Z" creationid="ansas" creationdate="20201209T160632Z">
-        <seg>"الصديق هو شخص يعرف كل شيء عنك ولا يزال يحبك." إلبرت ، هوبارد كاتب وناشر وفنان وفيلسوف أمريكي في أواخر القرن التاسع عشر وأوائل القرن العشرين. وهو معروف بتأسيسه ، مجتمع الفنون والحرف اليدوية في الشرق ، أورورا ، نيويورك يسمى Roycroft.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203510Z" creationid="ansas" creationdate="20201209T160632Z">
+        <seg>"الصديق هو شخص يعرف كل شيء عنك ولا يزال يحبك." إلبرت ، هوبارد كاتب وناشر وفنان وفيلسوف أمريكي في أواخر القرن التاسع عشر وأوائل القرن العشرين. وهو معروف بتأسيسه ، مجتمع الفنون والحرف اليدوية في الشرق ، أورورا ، نيويورك يسمى رويكروفت.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +66,14 @@
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T141302Z" creationid="ansas" creationdate="20201209T145634Z">
         <seg>"أصبح روك بوتوم هو الأساس المتين الذي أعادت بناء حياتي عليه". جي كي رولينغ روائية وكاتبة سيناريو بريطانية. اشتهرت بأنها مؤلفة سلسلة الكتب الخيالية الشهيرة هاري بوتر. تتكون سلسلة كتب هاري بوتر من 7 كتب تم تحويلها إلى 8 أفلام.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Stewardesses"  is  the  longest  word  that  , is  typed  with  only  the  left  hand.  A  , stewardess  is  a  woman  who  is  employed  , to  provide  meals  for  and  otherwise  , look  after  passengers  on  a  ship  or  , aircraft.  These  days,  we  typically  use  , the  term  flight  attendant,  which  can  , refer  to  a  man  or  woman  that  performs  , this  job.  What  other  words  are  typed  , with  only  one  hand?</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203448Z" creationid="anas" creationdate="20220301T203448Z">
+        <seg>"المضيفات" هي  كلمة يتم كتابتها باليد اليمنى و اليسرى ، المضيفة هي امرأة يتم توظيفها لتقديم وجبات الطعام وخلاف ذلك ، رعاية الركاب على متن سفينة أو طائرة. في هذه الأيام ، نستخدم عادةً مصطلح المضيفة ، والتي يمكن أن تشير إلى رجل أو امرأة يؤدي هذه الوظيفة. ما هي الكلمات الأخرى التي تكتب بيد واحدة فقط؟</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +150,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%inside  ^power  %famous  ^south  %children  , %smell  ^river%  ^follow  %piece^  united%  , ^break  %example  quick^  @cloud  billion^</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124145Z" creationid="anas" creationdate="20220304T124145Z">
+        <seg>٪ من الداخل ^ الطاقة٪ مشهور ^ جنوب٪ أطفال ،٪ رائحة ^ نهر٪ ^ تابع٪ قطعة ^ متحد٪ ، ^ كسر٪ مثال سريع ^ @ سحابة مليار ^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1  is  the  only  one  0  is  none  11  is  , more  and  10  is  less  100  is  a  lot  but  , 1000  is  even  more  learn  the  numbers  , and  you  should  know  more  1010101  type  , the  key  1  and  next  type  the  key  0</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T114533Z" creationid="anas" creationdate="20220227T114533Z">
         <seg>1 هو الرقم الوحيد و 0 هو لا شيء و 11 هو اكبر من الرقم 10 و هو اقل من 100 و هو اقل من 1000 و هو رقم زوجي و كل ما تعلمت ارقام اكثر ستعرف طباعة 10101010 و المفتاح 1 و المفتاح التالي 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2*2  is  4  &amp;amp;  4!  is  24  &amp;amp;  2^3  is  8.  , $dollar  @at  gmail  (open)close  percent%</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T220456Z" creationid="anas" creationdate="20220305T220456Z">
+        <seg>2 * 2 هي 4 و 4! هو 24 &amp; 2 ^ 3 هو 8. ، $ دولارات جيميل (يفتح) نسبة الإغلاق٪</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:)  P)  :)  P)  ::))PP))  )PP):)PP):  , :)P)::)PP)</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T215437Z" creationid="anas" creationdate="20220305T215437Z">
+        <seg>ك)  ح)  ك)  ح)  كك))حح))  )حح)ك)حح)ك  , ك)ح)كك)حح)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;0p0/0  /0;0p0  /0p0/0  h6n6y6  h6y6m6  , ;0p0/0  n6y6  0;0/  n6y6  0;0/  6n6n6n  , 0/0/0/</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T120233Z" creationid="anas" creationdate="20220227T120233Z">
@@ -210,6 +242,14 @@
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220227T135019Z" creationid="anas" creationdate="20220227T135019Z">
         <seg>@جديد )حدث @شركة )اول @حضارة )جزيرة @بحث )بحيرة @محيط )طاقة قدم@ سنه )اصلي@ )تقليد شفاطة@ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A!  Q!  Z!  A!  Z!  Q!  A!  Q!  Z!  A!Q!Z!  , Q!A!Z!  !Q!A!Z  !Q!Z!Q</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T215235Z" creationid="anas" creationdate="20220305T215235Z">
+        <seg>ش!  ض!  ئ!  ش!  ئ!  ض!  ش!  ض!  ئ!  ش!ض!ئ!  , ض!ش!ئ!  !ض!ش!ئ  !ض!ئ!ض</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +384,8 @@
       <tuv lang="en-US">
         <seg>Australia  is  a  country  in  the  Southern  , Hemisphere  between  the  Pacific  Ocean  , and  the  Indian  Ocean.  Its  official  , name  is  the  Commonwealth  of  Australia.  , Australia  is  the  sixth  biggest  country  , in  the  world  by  landmass.  The  , Australian  emblem  is  a  flower  called  , the  Golden  Wattle.  Australia  is  also  , the  smallest  continent  in  the  world.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145630Z" creationid="ansas" creationdate="20201209T145630Z">
-        <seg>أستراليا بلد يقع في الجنوب ، بين المحيط الهادئ والمحيط الهندي. الاسم الرسمي لها هو كومنولث أستراليا. ، أستراليا هي سادس أكبر دولة في العالم من حيث المساحة. الشعار الأسترالي هو زهرة تسمى Golden Wattle. أستراليا هي أيضًا أصغر قارة في العالم.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202001Z" creationid="ansas" creationdate="20201209T145630Z">
+        <seg>أستراليا بلد يقع في الجنوب ، بين المحيط الهادئ والمحيط الهندي. الاسم الرسمي لها هو كومنولث أستراليا. ، أستراليا هي سادس أكبر دولة في العالم من حيث المساحة. الشعار الأسترالي هو زهرة تسمى اكاسيا الذهبية. أستراليا هي أيضًا أصغر قارة في العالم.</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,8 +560,8 @@
       <tuv lang="en-US">
         <seg>A  tornado  is  a  violent  rotating  column  , of  air  extending  from  a  thunderstorm  , to  the  ground.  The  most  violent  , tornadoes  are  capable  of  tremendous  , destruction  with  wind  speeds  of  up  to  , three  hundred  mph.  The  vast  majority  , of  tornadoes  occur  in  the  Tornado  , Alley  region  of  the  United  States.  The  , term  Tornado  Alley  was  first  used  in  , 1952.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160459Z" creationid="ansas" creationdate="20201209T160459Z">
-        <seg>الإعصار هو عمود دوار عنيف ، يمتد من الهواء من عاصفة رعدية إلى الأرض. أعنف الأعاصير قادرة على تدمير هائل مع سرعة رياح تصل إلى 300 ميل في الساعة. الغالبية العظمى من الأعاصير تحدث في منطقة Tornado ، Alley في الولايات المتحدة. تم استخدام مصطلح Tornado Alley لأول مرة في عام 1952.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203048Z" creationid="ansas" creationdate="20201209T160459Z">
+        <seg>الإعصار هو عمود دوار عنيف ، يمتد من الهواء من عاصفة رعدية إلى الأرض. أعنف الأعاصير قادرة على تدمير هائل مع سرعة رياح تصل إلى 300 ميل في الساعة. الغالبية العظمى من الأعاصير تحدث في منطقة تورنيدو ، اللي  في الولايات المتحدة. تم استخدام مصطلح تورنيدو اللي لأول مرة في عام 1952.</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,10 +662,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Camels  are  well  adapted  to  living  in  , the  desert.&lt;span class="_enter"&gt; &lt;br/&gt;, desert  desert  desert  desert  desert&lt;span class="_enter"&gt; &lt;br/&gt;, She  baked  a  delicious  dessert  to  share  , with  her  friends.&lt;span class="_enter"&gt; &lt;br/&gt;, dessert  dessert  dessert  dessert  dessert&lt;span class="_enter"&gt; &lt;br/&gt;, In  the  hot  and  dry  desert,  cold  ice  , cream  makes  a  great  dessert.&lt;span class="_enter"&gt; &lt;br/&gt;, desert  dessert  desert  dessert</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T142120Z" creationid="anas" creationdate="20220227T142120Z">
         <seg>Camels  are  well  adapted  to  living  in  , the  desert. desert  desert  desert  desert  desert She  baked  a  delicious  dessert  to  share  , with  her  friends. dessert  dessert  dessert  dessert  dessert In  the  hot  and  dry  desert,  cold  ice  , cream  makes  a  great  dessert. desert  dessert  desert  dessert</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214812Z" creationid="anas" creationdate="20220305T214812Z">
+        <seg>الإبل مهيأة بشكل جيد للعيش في الصحراء. صحراء صحراء صحراء صحراء صحراء صحراء خبزت حلوى لذيذة لتشاركها مع صديقاتها. حلوى حلوى حلوى حلوى حلوى في الصحراء الحارة والجافة والآيس البارد والكريمة يصنع حلوى رائعة. حلوى الصحراء حلوى الصحراء</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +706,14 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201206T114833Z" creationid="ansas" creationdate="20201206T114747Z">
         <seg>شيكاغو هي أكبر مدينة في ولاية إلينوي. وهي ثالث أكبر مدينة في الولايات المتحدة ، على الرغم من    أنها كانت ثاني أكبر مدينة. ايضا مدينة شيكاغو ، تقع   بجوار بحيرة ميشيغان ، واحدة من خمس بحيرات عظيمة. في تعداد عام 2000 ، كان يعيش هناك ما يقرب من 2،900،000 شخص ، مع ستة ملايين شخص آخرين يعيشون في مكان قريب.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>China  has  the  world's  oldest  continuous  , civilization.  There  is  archaeological  , evidence  of  this  that  is  over  5,000  , years  old.  China  also  has  one  of  the  , world's  oldest  writing  systems,  and  is  , viewed  as  the  source  of  many  major  , inventions.  China  is  home  to  some  of  , the  oldest  artwork  in  the  world.  , Statues  and  pottery  are  some  classic  , examples.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201228Z" creationid="anas" creationdate="20220301T201228Z">
+        <seg>الصين لديها أقدم حضارة مستمرة في العالم. هناك أدلة أثرية على ذلك عمرها أكثر من 5000 عام. تمتلك الصين أيضًا أحد أقدم أنظمة الكتابة في العالم ، ويُنظر إليها على أنها مصدر للعديد من الاختراعات الكبرى. الصين هي موطن لبعض أقدم الأعمال الفنية في العالم. التماثيل والفخار هي بعض الأمثلة الكلاسيكية.</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Country  music  has  its  roots  and  , beginnings  in  folk  music.  The  old  , cowboy  and  pioneer  songs  of  the  , American  frontier  were  popular  in  the  , early  twentieth  century,  and  so  were  , arrangements  of  pop  music  songs  by  , rural  (or  rural  sounding)  performers.  , Country  musicians  also  adapted  new  , musical  instruments,  like  the  Hawaiian  , steel  guitar.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200430Z" creationid="anas" creationdate="20220301T200430Z">
+        <seg>موسيقى الريف لها جذورها وبداياتها في الموسيقى الشعبية. كانت الأغاني القديمة ورعاة البقر والرائدة في التخوم الأمريكية شائعة في أوائل القرن العشرين ، وكذلك كانت ترتيبات أغاني موسيقى البوب من قبل فناني الأداء الريفيين (أو الريفيين). قام موسيقيو الريف أيضًا بتكييف الآلات الموسيقية الجديدة مثل الغيتار الفولاذي من هاواي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Crowdfunding  is  becoming  a  popular  , option  for  early-stage  startups.  It  , generates  buzz  among  potential  , customers.  It  may  be  an  especially  , attractive  option  in  the  current  , market,  with  venture  funding  harder  to  , come  by.  But  multimillion-dollar  , success  stories  remain  rare.  , Crowdfunding  isn't  expected  to  replace  , venture  funding  anytime  soon.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201207T180158Z" creationid="ansas" creationdate="20201207T180158Z">
@@ -762,6 +818,14 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201206T121013Z" creationid="ansas" creationdate="20201206T121013Z">
         <seg>يعد برج خليفة حاليًا أطول مبنى في العالم ، حيث يبلغ ارتفاعه 829.8 مترًا (2،722 قدمًا)! يقع برج خليفة في دبي ، الإمارات العربية المتحدة. قبل اكتماله ، كان أطول مبنى في العالم هو تايبيه 101 ، التي تقع في تايبيه ، تايوان. يبلغ ارتفاع تايبيه 101 509.2 مترًا (1671 قدمًا).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>D#  C#  E#  D#  D#  E#  C#  #D  #E  #C  D#E#C#  , E#D#C#  #E#D#C  #D#C#E</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T215055Z" creationid="anas" creationdate="20220305T215055Z">
+        <seg>ي#  ؤ#  ث#  ي#  ي#  ث#  ؤ#  #ي  #ث  #ؤ  ي#ث#ؤ#  , ث#ي#ؤ#  #ث#ي#ؤ  #ي#ؤ#ث</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,9 +886,9 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>E2  is  equal  to  (m0c2)2  plus  (pc)2&lt;span class="_enter"&gt; &lt;br/&gt;, where&lt;span class="_enter"&gt; &lt;br/&gt;, #1  E  represents  the  energy  of  a  , particle&lt;span class="_enter"&gt; &lt;br/&gt;, #2  m0  represents  the  mass  of  the  , particle  when  it  is  not  moving&lt;span class="_enter"&gt; &lt;br/&gt;, #3  p  represents  the  momentum  of  the  , particle  when  it  is  moving&lt;span class="_enter"&gt; &lt;br/&gt;, #4  c  represents  the  speed  of  light.</seg>
+        <seg>E2  is  equal  to  (m0c2)2  plus  (pc)2 where #1  E  represents  the  energy  of  a  , particle #2  m0  represents  the  mass  of  the  , particle  when  it  is  not  moving #3  p  represents  the  momentum  of  the  , particle  when  it  is  moving #4  c  represents  the  speed  of  light.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120331Z" creationid="ansas" creationdate="20201206T120331Z">
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124454Z" creationid="anas" creationdate="20220304T124413Z">
         <seg>ي2 تساوي (م0ك2) 2 زائد (ب س) 2 ، أين # ي1 يمثل طاقة الجسيم #2 م0 تمثل كتلة الجسيم عندما لا يتحرك # 3 ب تمثل زخم الجسيم عندما يتحرك  # 4 ج تمثل سرعة الضوء.</seg>
       </tuv>
     </tu>
@@ -842,6 +906,22 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160507Z" creationid="ansas" creationdate="20201209T160507Z">
         <seg>يعلم الجميع أن سرقة الممتلكات خطأ. إنه خطأ في الحياة الواقعية وعلى الإنترنت. الملكية ليست مجرد أشياء يمكنك الاحتفاظ بها. الكلمات والموسيقى والأعمال الفنية وحتى الأفكار هي ملك ويمكن سرقتها. السرقة والادعاء بأنها ملكك أمر غير قانوني ، وسوف يوقعك في المشاكل. هذا شكل من أشكال الغش يسمى الانتحال.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F$  R$  V$  F$  R$  V$  F$R$V$  F$V$R$  , $R$F$V  $R$F$V  $F$R$V  R$V$R$</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T215012Z" creationid="anas" creationdate="20220305T215012Z">
+        <seg>ب$  ق$  ر$  ب$  ق$  ر$  ب$ق$ر$  ب$ر$ق$  , $ق$ب$ر  $ق$ب$ر  $ب$ق$ر  ق$ر$ق$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F$  T%  V$  S@  A!  D#  F$  G%  C#  W@  Z!  a!  , s@  d#  f$  g%  q!  w@  e#  r$  v$  b%  x@</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T215902Z" creationid="anas" creationdate="20220305T215902Z">
+        <seg>ب$  ف%  ر$  س@  ش!  ي#  ب$  ل%  ؤ#  ص@  ئ!  ش!  , س@  ي#  ب$  ل%  ض!  ص@  ث#  ق$  ر$  ﻻ%  ء@</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +1008,8 @@
       <tuv lang="en-US">
         <seg>Freedom  of  speech  is  the  right  to  , state  one's  opinions  and  ideas  without  , being  stopped  or  punished.  Sometimes  , this  is  also  called  freedom  of  , expression.  Freedom  of  speech  is  , thought  to  also  include  freedom  of  , information.  The  Freedom  of  Information  , Act  (FOIA)  in  the  USA  is  often  , described  as  the  law  that  keeps  , citizens  informed  about  their  government.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160525Z" creationid="ansas" creationdate="20201209T160525Z">
-        <seg>حرية التعبير هي الحق في التعبير عن آرائه وأفكاره دون إيقاف أو معاقبة. في بعض الأحيان ، يسمى هذا أيضًا حرية التعبير. يُعتقد أن حرية التعبير تشمل أيضًا حرية المعلومات. غالبًا ما يوصف قانون حرية المعلومات (FOIA) في الولايات المتحدة بأنه القانون الذي يحافظ على إبلاغ المواطنين بحكومتهم.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203217Z" creationid="ansas" creationdate="20201209T160525Z">
+        <seg>حرية التعبير هي الحق في التعبير عن آرائه وأفكاره دون إيقاف أو معاقبة. في بعض الأحيان ، يسمى هذا أيضًا حرية التعبير. يُعتقد أن حرية التعبير تشمل أيضًا حرية المعلومات. غالبًا ما يوصف قانون حرية المعلومات (فويا) في الولايات المتحدة بأنه القانون الذي يحافظ على إبلاغ المواطنين بحكومتهم.</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>G%  T%  B%  B%  G%  T%  G%  T%  B%  %T%G%B  , %G%B%T  G%T%B%  T%B%T%</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T215314Z" creationid="anas" creationdate="20220305T215314Z">
+        <seg>ل%  ف%  ﻻ%  ﻻ%  ل%  ف%  ل%  ف%  ﻻ%  %ف%ل%ﻻ  , %ل%ﻻ%ف  ل%ف%ﻻ%  ف%ﻻ%ف%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Genetically  modified  foods,  or  GMOs,  , are  foods  produced  from  organisms  that  , have  had  changes  introduced  to  their  , DNA  using  methods  of  genetic  , engineering.  Genetic  engineering  , techniques  allow  for  the  introduction  , of  new  traits  as  well  as  greater  , control  over  traits  than  previous  , methods  such  as  selective  breeding  and  , mutation  breeding.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145244Z" creationid="ansas" creationdate="20201209T145244Z">
@@ -976,8 +1064,8 @@
       <tuv lang="en-US">
         <seg>George  Washington  was  active  in  the  , French  and  Indian  War.  His  first  , military  action  was  a  defeat  at  the  , hands  of  the  French  and  their  Indian  , allies  at  Fort  Necessity.  By  the  age  , of  23,  he  was  a  colonel  in  charge  of  , all  the  soldiers  in  Virginia.  They  , fought  the  Indians.  In  1759,  Washington  , married  a  widow  named  Martha  Custis.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T150542Z" creationid="ansas" creationdate="20201209T150542Z">
-        <seg>كان جورج واشنطن نشطًا في الحرب الفرنسية والهندية. كان عمله العسكري الأول هزيمة على أيدي الفرنسيين والهنود الحلفاء في Fort Necessity. في سن الثالثة والعشرين ، كان كولونيلًا مسؤولًا عن جميع الجنود في فرجينيا. لقد قاتلوا الهنود. في عام 1759 ، تزوجت واشنطن أرملة تدعى مارثا كوستيس.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214637Z" creationid="ansas" creationdate="20201209T150542Z">
+        <seg>كان جورج واشنطن نشطًا في الحرب الفرنسية والهندية. كان عمله العسكري الأول هزيمة على أيدي الفرنسيين والهنود الحلفاء في حصن ناسيستي . في سن الثالثة والعشرين ، كان كولونيلًا مسؤولًا عن جميع الجنود في فرجينيا. لقد قاتلوا الهنود. في عام 1759 ، تزوجت واشنطن من أرملة اسمها مارثا كوستيس.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1090,14 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201204T162056Z" creationid="ansas" creationdate="20201204T162056Z">
         <seg>تعيش الباندا العملاقة في منطقة غابات الخيزران المعتدلة في وسط الصين. ، هم من بين أفضل الحيوانات المعترف بها ولكن الندرة في العالم. أصبحت حيوانات الباندا ترمز إلى الأنواع المهددة بالانقراض وجهود الحفظ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>H^  Y^  N^  H^  Y^  N^  H^Y^N^  H^N^Y^  , ^Y^H^N  ^H^Y^N</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T215527Z" creationid="anas" creationdate="20220305T215527Z">
+        <seg>ا^  إ^  ى^  ا^  إ^  ى^  ا^إ^ى^  ا^ى^إ^  , ^إ^ا^ى  ^ا^إ^ى</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,10 +1134,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>He  offered  her  a  piece  of  the  vanilla  , cake.&lt;span class="_enter"&gt; &lt;br/&gt;, piece  piece  piece  piece  piece&lt;span class="_enter"&gt; &lt;br/&gt;, Everyone  wants  world  peace.&lt;span class="_enter"&gt; &lt;br/&gt;, peace  peace  peace  peace  peace&lt;span class="_enter"&gt; &lt;br/&gt;, She  offered  her  sister  a  piece  of  cake  , to  make  peace  with  her.&lt;span class="_enter"&gt; &lt;br/&gt;, piece  peace  piece  peace</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T142141Z" creationid="anas" creationdate="20220227T142141Z">
         <seg>He  offered  her  a  piece  of  the  vanilla  , cake. piece  piece  piece  piece  piece Everyone  wants  world  peace. peace  peace  peace  peace  peace She  offered  her  sister  a  piece  of  cake  , to  make  peace  with  her. piece  peace  piece  peace</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214813Z" creationid="anas" creationdate="20220305T214813Z">
+        <seg>قدم لها قطعة من كعكة الفانيليا. الكل يريد السلام العالمي. السلام والسلام والسلام والسلام قدمت لأختها قطعة من الكعكة لتصلح معها. قطعة سلام قطعة سلام</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1240,8 @@
       <tuv lang="en-US">
         <seg>In  Costa  Rica,  "Pura  vida"  is  the  , national  saying  which  translates  as  , "pure  life,"  a  sunny,  feel  good  , expression  used  as  a  greeting,  goodbye,  , or  if  someone  asks  how  you  are  doing.  , Costa  Rica  is  a  country  in  Central  , America.  Roughly  a  quarter  of  its  area  , is  made  up  of  protected  jungle,  , teeming  with  wildlife  including  sloths  , and  quetzal  birds.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T150544Z" creationid="ansas" creationdate="20201209T150544Z">
-        <seg>في كوستاريكا ، "Pura vida" هو المثل القومي الذي يترجم كـ "حياة نقية" ، مشمس ، أشعر بالرضا ، تعبير يستخدم كتحية ، وداعًا ، أو إذا سأل أحدهم عن أحوالك. ، كوستاريكا بلد في وسط أمريكا. ما يقرب من ربع مساحتها ، تتكون من غابة محمية ، تعج بالحياة البرية بما في ذلك الكسلان ، وطيور الكيتزال.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202740Z" creationid="ansas" creationdate="20201209T150544Z">
+        <seg>في كوستاريكا ، "بيورا فيدا" هو المثل القومي الذي يترجم كـ "حياة نقية" ، مشمس ،و الشعور بالرضا ، تعبير يستخدم كتحية ، وداعًا ، أو إذا سأل أحدهم عن أحوالك. ، كوستاريكا بلد في وسط أمريكا. ما يقرب من ربع مساحتها ، تتكون من غابة محمية ، تعج بالحياة البرية بما في ذلك الكسلان ، وطيور الكيتزال.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,10 +1310,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>It  can  be  very  frustrating  to  lose  , your  homework.&lt;span class="_enter"&gt; &lt;br/&gt;, lose  lose  lose  lose  lose&lt;span class="_enter"&gt; &lt;br/&gt;, Be  careful  because  your  shoelace  is  , loose.&lt;span class="_enter"&gt; &lt;br/&gt;, loose  loose  loose  loose  loose&lt;span class="_enter"&gt; &lt;br/&gt;, Their  loss  today  means  they  are  out  of  , the  championship.&lt;span class="_enter"&gt; &lt;br/&gt;, loss  loss  loss  loss  loss</seg>
+        <seg>It  can  be  very  frustrating  to  lose  , your  homework lose  lose  lose  lose  lose Be  careful  because  your  shoelace  is  , loose loose  loose  loose  loose  loose Their  loss  today  means  they  are  out  of  , the  championship loss  loss  loss  loss  loss</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T110448Z" creationid="ansas" creationdate="20201206T110448Z">
-        <seg>قد يكون من المحبط للغاية أن تخسر واجبك. تخسر تخسر تخسر تخسر كن حذرًا لأن رباط الحذاء فضفاض. ، فضفاضة فضفاضة فضفاضة خسارتهم اليوم تعني خروجهم من البطولة.  خسارة خسارة خسارة خسارة تحتاج الى استعمال قاعدة البيانات </seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214803Z" creationid="anas" creationdate="20220305T214803Z">
+        <seg>قد يكون من المحبط للغاية أن تخسر ، تخسر واجباتك المنزلية تخسر تخسر تخسر تخسر كن حذرًا لأن رباط الحذاء الخاص بك ، فضفاض فضفاض فضفاض فضفاض ، خسارتهم اليوم تعني خروجهم ، خسارة البطولة خسارة خسارة خسارة</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1322,22 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201207T175112Z" creationid="ansas" creationdate="20201207T175112Z">
         <seg>قد يستغرق الأمر بضع دقائق فقط ، لإنهاء الوجبة ، ولكن يستغرق جسمك حوالي 12 ساعة قبل أن يهضم الطعام تمامًا. يحتاج جسم الإنسان إلى الحديد للمساعدة في أداء العدد من الوظائف المهمة. الحديد ، يساعد في نقل الأكسجين إلى أجزاء من جسمك على شكل هيموجلوبين. لا ، فوجود ما يكفي يمكن أن يؤدي إلى نقص الحديد وأعراض مثل الضعف والتعب.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>J&amp;amp;  K*  L(  :)  H^  j&amp;amp;  k*  l(  ;)  m&amp;amp;  ,*  .9  , h^  u&amp;amp;  i*  o(  p)  y^  n^  ,*  i*  o(  l(</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T220059Z" creationid="anas" creationdate="20220305T220059Z">
+        <seg>ت &amp; ن * م (ك) ا ^ ت &amp; ن * ه(ك) ة &amp;، * ز9، ا ^ ع &amp; ه * خ (ح) غ ^ ى ^، * ه * خ (ه (</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>J&amp;amp;  U&amp;amp;  M&amp;amp;  J&amp;amp;  U&amp;amp;  M&amp;amp;  J&amp;amp;U&amp;amp;M&amp;amp;  J&amp;amp;U&amp;amp;M&amp;amp;  , &amp;amp;U&amp;amp;J&amp;amp;M  &amp;amp;J&amp;amp;M&amp;amp;U  &amp;amp;M&amp;amp;J&amp;amp;U</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124211Z" creationid="anas" creationdate="20220304T124211Z">
+        <seg>ب$ب$  ت&amp;شةحكت&amp;شةحك  ب$ت&amp;شةحك  تت&amp;شةحك  $ببت  &amp;شةحك$تب  $&amp;شةحكبت  تب&amp;شةحك$  , $$&amp;شةحك&amp;شةحك  $ب&amp;شةحكت  &amp;شةحكت$ب  ت$&amp;شةحكب  $$&amp;شةحكت  &amp;شةحك$تب  ت&amp;شةحكت$&amp;شةحك$</seg>
       </tuv>
     </tu>
     <tu>
@@ -1256,8 +1368,8 @@
       <tuv lang="en-US">
         <seg>K*  I*  K*  K*  I*  I*  K*I*K*  K*I*K*  , *I*K*I  *K*I*K  K*I*K*</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135413Z" creationid="anas" creationdate="20220227T135413Z">
-        <seg>ي#ن*  ي#ن*  ي#ن*  نن*  #يي*  ن#*ين  *#ني*  , نن#*ين  ن*#ن  #*ين#  ن*#ي  ي#*  ن#ي*  ن  #  *  , يK*  I*  K*  K*  I*  I*  K*I*K*  K*I*K*  , *I*K*I  *K*I*K  K*I*K*</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124219Z" creationid="anas" creationdate="20220227T135413Z">
+        <seg>ي#ن*  ي#ن*  ي#ن*  نن*  #يي*  ن#*ين  *#ني*  , نن#*ين  ن*#ن  #*ين#  ن*#ي  ي#*  ن#ي*  ن  #  *  , ي*</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,6 +1386,14 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201207T173900Z" creationid="ansas" creationdate="20201207T173900Z">
         <seg>كينغ كونغ هو شخصية خيالية ، وحش سينمائي عملاق يشبه الغوريلا ، ظهر في العديد من الأفلام منذ عام 1933. وتشمل هذه الأفلام الرائدة عام 1933 ، والفيلم ، وإعادة إنتاج عامي 1976 و 2005 ، بالإضافة إلى العديد من التكميلات. من أول فيلمين. أصبحت الشخصية واحدة من أشهر أيقونات الأفلام في العالم.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L(  O(  L(  O(  LL((OO((  (OO(L(OO(L  , L(O(LL(OO(</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T215407Z" creationid="anas" creationdate="20220305T215407Z">
+        <seg>م(  خ(  م(  خ(  مم((خخ((  (خخ(م(خخ(م  , م(خ(مم(خخ(</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,16 +1432,16 @@
       <tuv lang="en-US">
         <seg>Little  Women  is  a  book  by  Louisa  May  , Alcott  published  in  1868.  The  story  is  , about  the  fictional  March  sisters,  who  , lived  in  the  time  of  the  American  , Civil  War.  Their  father  served  as  a  , chaplain  in  the  Union  Army.  The  author  , was  inspired  by  her  own  childhood  , experiences  when  writing  the  book.  The  , book  was  made  into  a  drama  film  in  , 1994.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145650Z" creationid="ansas" creationdate="20201209T145650Z">
-        <seg>Little Women هو كتاب من تأليف Louisa May ، تم نشر Alcott في عام 1868. تدور القصة حول أخوات March الخيالية ، اللائي عاشن في زمن الحرب الأهلية الأمريكية. خدم والدهم كقسيس في جيش الاتحاد. استلهمت المؤلفة من طفولتها تجاربها عند كتابة الكتاب. تم تحويل الكتاب إلى فيلم درامي عام 1994.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202200Z" creationid="ansas" creationdate="20201209T145650Z">
+        <seg>المرأة الصغيرة  هو كتاب من تأليف لويزا ماي ، تم نشر الكوت  في عام 1868. تدور القصة حول أخوات مارتش الخيالية ، اللائي عاشن في زمن الحرب الأهلية الأمريكية. خدم والدهم كقسيس في جيش الاتحاد. استلهمت المؤلفة من طفولتها تجاربها عند كتابة الكتاب. تم تحويل الكتاب إلى فيلم درامي عام 1994.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Majority  rule  is  a  basic  principle  of  , democracy.&lt;span class="_enter"&gt; &lt;br/&gt;, principle  principle  principle  principle  , principle&lt;span class="_enter"&gt; &lt;br/&gt;, Our  school's  principal  is  a  kind  and  , intelligent  woman.&lt;span class="_enter"&gt; &lt;br/&gt;, principal  principal  principal  principal  , principal&lt;span class="_enter"&gt; &lt;br/&gt;, Their  principal  reminded  them  of  the  , principle  rule:  be  kind  to  others.&lt;span class="_enter"&gt; &lt;br/&gt;, principle  principal  principle  principal</seg>
+        <seg>Majority  rule  is  a  basic  principle  of  , democracy principle  principle  principle  principle  , principle, Our  school's  principal  is  a  kind  and  , intelligent  woman principal  principal  principal  principal  , principal, Their  principal  reminded  them  of  the  , principle  rule:  be  kind  to  others principle  principal  principle  principal</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140626Z" creationid="anas" creationdate="20220227T140626Z">
-        <seg>Majority  rule  is  a  basic  principle  of  , democracy. principle  principle  principle  principle  , principleOur  school's  principal  is  a  kind  and  , intelligent  woman.principal  principal  principal  principal  , principal Their  principal  reminded  them  of  the  , principle  rule:  be  kind  to  others.principle  principal  principle  principal</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201035Z" creationid="anas" creationdate="20220301T201035Z">
+        <seg>حكم الأغلبية هو مبدأ أساسي لـ ، مبدأ مبدأ مبدأ الديمقراطية ، المبدأ ، مدير مدرستنا هو امرأة لطيفة وذكية ، مدير رئيسي ، مدير ، مدير مدرسة ، ذكرهم بالقاعدة الأساسية: كن لطيفًا مع الآخرين المبدأ الأساسي المالك</seg>
       </tuv>
     </tu>
     <tu>
@@ -1432,8 +1552,8 @@
       <tuv lang="en-US">
         <seg>Nefertiti  was  the  primary  wife  of  the  , Pharaoh  Akhenaten,  who  unsuccessfully  , tried  to  change  the  religion  of  Egypt.  , Akhenaten  was  then  succeeded  by  a  , pharaoh  referred  to  as  Smenkhare.  Some  , scientists  believe  Smenkhare  and  , Nefertiti  are  the  same  person.  Many  , think  the  queen  changed  her  name  , during  her  rule.  She  reigned  during  , the  wealthiest  period  of  Ancient  Egypt.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145212Z" creationid="ansas" creationdate="20201209T145212Z">
-        <seg>كانت نفرتيتي الزوجة الأساسية للفرعون إخناتون ، الذي حاول تغيير ديانة مصر دون جدوى. ، ثم خلف أخناتون فرعون يشار إليه باسم Smenkhare. يعتقد بعض العلماء أن Smenkhare و Nefertiti هما نفس الشخص. يعتقد الكثيرون أن الملكة غيرت اسمها خلال فترة حكمها. حكمت خلال أغنى فترة في مصر القديمة.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201644Z" creationid="ansas" creationdate="20201209T145212Z">
+        <seg>كانت نفرتيتي الزوجة الأساسية للفرعون إخناتون ، الذي حاول تغيير ديانة مصر دون جدوى. ، ثم خلف أخناتون فرعون يشار إليه باسم سمنخير. يعتقد بعض العلماء أن سمنخير و نيفرتيتي هما نفس الشخص. يعتقد الكثيرون أن الملكة غيرت اسمها خلال فترة حكمها. حكمت خلال أغنى فترة في مصر القديمة.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,10 +1646,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Our  teacher  is  definitely  the  best.&lt;span class="_enter"&gt; &lt;br/&gt;, definitely  definitely  definitely  , definitely  definitely&lt;span class="_enter"&gt; &lt;br/&gt;, I  have  completely  mastered  touch  , typing.&lt;span class="_enter"&gt; &lt;br/&gt;, completely  completely  completely  , completely  completely&lt;span class="_enter"&gt; &lt;br/&gt;, He  definitely  said  he  was  completely  , finished.&lt;span class="_enter"&gt; &lt;br/&gt;, definitely  completely  definitely  , completely</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T142207Z" creationid="anas" creationdate="20220227T142207Z">
         <seg>Our  teacher  is  definitely  the  best. definitely  definitely  definitely  , definitely  definitely I  have  completely  mastered  touch  , typing. completely  completely  completely  , completely  completely He  definitely  said  he  was  completely  , finished. definitely  completely  definitely  , completely</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214814Z" creationid="anas" creationdate="20220305T214814Z">
+        <seg>مدرسنا هو بالتأكيد الأفضل. بالتأكيد بالتأكيد ، وبالتأكيد لقد أتقنت اللمس والكتابة تمامًا. تماما تماما ، تماما تماما وقال بالتأكيد أنه قد انتهى تماما. بالتأكيد بالتأكيد تمامًا ، تمامًا</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,10 +1822,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>S@  X@  W@  S@  S@  W@  X@  @S  @W  @X  @W@S@X  , @W@X@S  S@W@X@  W@S@X@</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T215137Z" creationid="anas" creationdate="20220305T215137Z">
+        <seg>س@  ء@  ص@  س@  س@  ص@  ء@  @س  @ص  @ء  @ص@س@ء  , @ص@ء@س  س@ص@ء@  ص@س@ء@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>San  Francisco,  officially  the  City  and  , County  of  San  Francisco,  is  the  , financial,  cultural,  and  transportation  , center  of  the  San  Francisco  Bay  Area,  , a  region  of  7.15  million  people  which  , includes  San  Jose  and  Oakland.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T112303Z" creationid="ansas" creationdate="20201206T112303Z">
-        <seg>سان فرانسيسكو ، رسميا مدينة ومقاطعة سان فرانسيسكو ، هي المركز المالي والثقافي والنقل ، وهي مركز منطقة خليج سان فرانسيسكو ، وهي منطقة يبلغ عدد سكانها 7.15 مليون نسمة ، بما في ذلك سان خوسيه وأوكلاند.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214852Z" creationid="ansas" creationdate="20201206T112303Z">
+        <seg>سان فرانسيسكو ، رسميًا مدينة ومقاطعة سان فرانسيسكو ، هي المركز المالي والثقافي والنقل ، وهي مركز منطقة خليج سان فرانسيسكو ، وهي منطقة يبلغ عدد سكانها 7.15 مليون نسمة ، بما في ذلك سان خوسيه وأوكلاند.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,26 +1878,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>She  thought  she  saw  a  rabbit  in  the  , woods.&lt;span class="_enter"&gt; &lt;br/&gt;, thought  thought  thought  thought  thought&lt;span class="_enter"&gt; &lt;br/&gt;, They  fought  over  the  last  piece  of  , pizza.&lt;span class="_enter"&gt; &lt;br/&gt;, fought  fought  fought  fought  fought&lt;span class="_enter"&gt; &lt;br/&gt;, I  thought  they  fought  too  much.&lt;span class="_enter"&gt; &lt;br/&gt;, thought  fought  thought  fought</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T141918Z" creationid="anas" creationdate="20220227T141918Z">
         <seg>She  thought  she  saw  a  rabbit  in  the  , woods. thought  thought  thought  thought  thought They  fought  over  the  last  piece  of  , pizza. fought  fought  fought  fought  fought I  thought  they  fought  too  much. thought  fought  thought  fought</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214806Z" creationid="anas" creationdate="20220305T214806Z">
+        <seg>ظنت أنها رأت أرنبًا في الغابة. ظنوا اعتقدوا اعتقدوا اعتقدوا انهم تقاتلوا على آخر قطعة بيتزا. قاتل قاتل قاتل قاتل قاتل ظننت أنهم قاتلوا كثيرًا. حارب الفكر قاتل الفكر</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>She  wrote  the  date  on  the  calendar.&lt;span class="_enter"&gt; &lt;br/&gt;, calendar  calendar  calendar  calendar  , calendar&lt;span class="_enter"&gt; &lt;br/&gt;, He  was  not  particular  about  food.  He  , would  eat  anything.&lt;span class="_enter"&gt; &lt;br/&gt;, particular  particular  particular  , particular  particular&lt;span class="_enter"&gt; &lt;br/&gt;, Which  particular  calendar  did  you  want  , to  buy?&lt;span class="_enter"&gt; &lt;br/&gt;, calendar  particular  calendar  particular</seg>
+        <seg>She  wrote  the  date  on  the  calendar calendar  calendar  calendar  calendar  , calendar, He  was  not  particular  about  food.  He  , would  eat  anything particular  particular  particular  , particular  particular, Which  particular  calendar  did  you  want  , to  buy?, calendar  particular  calendar  particular</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140653Z" creationid="anas" creationdate="20220227T140653Z">
-        <seg>She  wrote  the  date  on  the  calendar. calendar  calendar  calendar  calendar  , calendar He  was  not  particular  about  food.  He  , would  eat  anything. particular  particular  particular  , particular  particular Which  particular  calendar  did  you  want  , to  buy? calendar  particular  calendar  particular</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201038Z" creationid="anas" creationdate="20220301T201038Z">
+        <seg>كتبت التاريخ على التقويم التقويم والتقويم والتقويم والتقويم ، ولم يكن خاصًا بالطعام. هو ، سيأكل شيئًا معينًا معينًا ، معينًا معينًا ، ما هو التقويم المحدد الذي تريد شراءه ؟، تقويم معين تقويم معين</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Sleeping  Beauty  (1959)  is  an  American  , animated  movie  produced  by  Walt  Disney  , Productions  and  released  to  movie  , theaters  by  Buena  Vista  Distribution.  , Sleeping  Beauty  earned  (approximately)  , $7.7  million  in  box  office  rentals.  , Its  production  costs  totaled  $6  , million,  making  it  the  most  expensive  , Disney  movie  to  that  date.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T123203Z" creationid="ansas" creationdate="20201206T123203Z">
-        <seg>الجميلة النائمة (1959) هو فيلم رسوم متحركة أمريكي أنتجته شركة والت ديزني للإنتاج وتم إصداره في دور السينما بواسطة Buena Vista Distribution. ، سليبينج بيوتي كسبت (تقريبًا) 7.7 مليون دولار من إيجارات شباك التذاكر. وبلغت تكاليف إنتاجه 6 ملايين دولار ، مما جعله أغلى فيلم ديزني حتى ذلك التاريخ.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T205519Z" creationid="ansas" creationdate="20201206T123203Z">
+        <seg>الجميلة النائمة (1959) هو فيلم رسوم متحركة أمريكي أنتجته شركة والت ديزني للإنتاج وتم إصداره في دور السينما بواسطة بيونا فيستا للتوزيع ، سليبينج بيوتي كسبت (تقريبًا) 7.7 مليون دولار من إيجارات شباك التذاكر. وبلغت تكاليف إنتاجه 6 ملايين دولار ، مما جعله أغلى فيلم ديزني حتى ذلك التاريخ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,10 +1910,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Sometimes  it's  hard  to  understand  a  , difficult  subject.&lt;span class="_enter"&gt; &lt;br/&gt;, it's  it's  it's  it's  it's&lt;span class="_enter"&gt; &lt;br/&gt;, The  dog  turned  its  head  and  barked.&lt;span class="_enter"&gt; &lt;br/&gt;, its  its  its  its  its&lt;span class="_enter"&gt; &lt;br/&gt;, When  a  dog  is  wagging  its  tail,  it's  , usually  happy.&lt;span class="_enter"&gt; &lt;br/&gt;, its  it's  its  it's  its</seg>
+        <seg>Sometimes  it's  hard  to  understand  a  , difficult  subject it's  it's  it's  it's  it's, The  dog  turned  its  head  and  barked its  its  its  its  its, When  a  dog  is  wagging  its  tail,  it's  , usually  happy its  it's  its  it's  its</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140739Z" creationid="anas" creationdate="20220227T140739Z">
-        <seg>Sometimes  it's  hard  to  understand  a  , difficult  subject. it's  it's  it's  it's  it'sSometimes  it's  hard  to  understand  a  , difficult  subject. it's  it's  it's  it's  it's, The  dog  turned  its  head  and  barked.its  its  its  its  its When  a  dog  is  wagging  its  tail,  it's  , usually  happy. its  it's  its  it's  its</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201041Z" creationid="anas" creationdate="20220301T201041Z">
+        <seg>أحيانًا يكون من الصعب فهم موضوع صعب ، إنه الأمر ، لقد أدار الكلب رأسه ونبح ، إنه ملكه ، عندما يهز الكلب ذيله ، يكون عادةً سعيدًا إنه هو</seg>
       </tuv>
     </tu>
     <tu>
@@ -1824,8 +1952,8 @@
       <tuv lang="en-US">
         <seg>Strawberries  are  very  tasty,  and  very  , good  for  you.  They're  low  in  calories,  , and  contain  a  high  percentage  of  , several  vitamins,  including  C,  B6  and  , K.  Fibre,  folic  acid  and  potassium  , (three  things  your  body  needs)  can  , also  be  found  in  strawberries.  They  , are  a  delicious  treat  on  a  hot  summer  , day.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160517Z" creationid="ansas" creationdate="20201209T160517Z">
-        <seg>الفراولة لذيذة جدًا ، وهي جيدة جدًا لك. تحتوي على نسبة منخفضة من السعرات الحرارية ، وتحتوي على نسبة عالية من العديد من الفيتامينات ، بما في ذلك C و B6 و K والألياف وحمض الفوليك والبوتاسيوم (ثلاثة أشياء يحتاجها جسمك) ، ويمكن أيضًا العثور عليها في الفراولة. إنها حلوى لذيذة في يوم صيف حار.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203126Z" creationid="ansas" creationdate="20201209T160517Z">
+        <seg>الفراولة لذيذة جدًا ، وهي جيدة جدًا لك. تحتوي على نسبة منخفضة من السعرات الحرارية ، وتحتوي على نسبة عالية من العديد من الفيتامينات ، بما في ذلك سي و بي6 و كاي والألياف وحمض الفوليك والبوتاسيوم (ثلاثة أشياء يحتاجها جسمك) ، ويمكن أيضًا العثور عليها في الفراولة. إنها حلوى لذيذة في يوم صيف حار.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,10 +1966,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Tell  your  friends  you  appreciate  them  , often.&lt;span class="_enter"&gt; &lt;br/&gt;, appreciate  appreciate  appreciate  , appreciate  appreciate&lt;span class="_enter"&gt; &lt;br/&gt;, He  would  exaggerate  about  how  fast  he  , could  type.&lt;span class="_enter"&gt; &lt;br/&gt;, exaggerate  exaggerate  exaggerate  , exaggerate  exaggerate&lt;span class="_enter"&gt; &lt;br/&gt;, I  do  not  exaggerate  when  I  say  how  , much  I  appreciate  you.&lt;span class="_enter"&gt; &lt;br/&gt;, appreciate  exaggerate  appreciate  , exaggerate</seg>
+        <seg>Tell  your  friends  you  appreciate  them  , often appreciate  appreciate  appreciate  , appreciate  appreciate, He  would  exaggerate  about  how  fast  he  , could  type exaggerate  exaggerate  exaggerate  , exaggerate  exaggerate, I  do  not  exaggerate  when  I  say  how  , much  I  appreciate  you appreciate  exaggerate  appreciate  , exaggerate</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140557Z" creationid="anas" creationdate="20220227T140557Z">
-        <seg>Tell  your  friends  you  appreciate  them  , often. appreciate  appreciate  appreciate  , appreciate  appreciate He  would  exaggerate  about  how  fast  he  , could  type. exaggerate  exaggerate  exaggerate  , exaggerate  exaggerate I  do  not  exaggerate  when  I  say  how  , much  I  appreciate  you. appreciate  exaggerate  appreciate  , exaggerate</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201030Z" creationid="anas" creationdate="20220301T201030Z">
+        <seg>أخبر أصدقاءك أنك تقدرهم ، غالبًا ما أقدر أقدر أقدر ، أقدر أقدر ، كان سيبالغ في مدى سرعته ، قد يكتب مبالغًا مبالغًا فيها ، يبالغ في المبالغة ، لا أبالغ عندما أقول كيف ، أنا أقدر تقديرك المبالغ فيه ، المبالغة</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,10 +1982,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Their  teacher  said  they  were  the  best  , class.&lt;span class="_enter"&gt; &lt;br/&gt;, their  their  their  their  their&lt;span class="_enter"&gt; &lt;br/&gt;, They're  climbing  to  the  top  of  the  , mountain.&lt;span class="_enter"&gt; &lt;br/&gt;, they're  they're  they're  they're  they're&lt;span class="_enter"&gt; &lt;br/&gt;, There  are  so  many  monkeys  in  that  , tree!&lt;span class="_enter"&gt; &lt;br/&gt;, there  there  there  there  there</seg>
+        <seg>Their  teacher  said  they  were  the  best  , class their  their  their  their  their, They're  climbing  to  the  top  of  the  , mountain they're  they're  they're  they're  they're, There  are  so  many  monkeys  in  that  , tree!, there  there  there  there  there</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140442Z" creationid="anas" creationdate="20220227T140442Z">
-        <seg>Their  teacher  said  they  were  the  best  , class their  their  their  their  their They're  climbing  to  the  top  of  the  , mountain. they're  they're  they're  they're  they're There  are  so  many  monkeys  in  that  , tree! there  there  there  there  there</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201003Z" creationid="anas" creationdate="20220301T201003Z">
+        <seg>قال معلمهم إنهم الأفضل ، صنفهم صفهم الخاص بهم ، إنهم يتسلقون إلى قمة الجبل ، إنهم هم هم ، هناك الكثير من القرود في ذلك ، شجرة !، هناك هناك هناك</seg>
       </tuv>
     </tu>
     <tu>
@@ -1896,8 +2024,8 @@
       <tuv lang="en-US">
         <seg>There  are  many  different  types  of  , social  media.  The  most  common  are  , personal  networks  like  Facebook,  where  , you  connect  with  other  people.  There  , are  media  sharing  sites  like  Instagram  , where  you  post  pictures.  There  are  , also  forums,  where  people  meet  to  chat  , about  specific  topics,  and  social  , publishing,  like  KidBlog  where  you  post  , longer  articles.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145659Z" creationid="ansas" creationdate="20201209T145659Z">
-        <seg>هناك أنواع مختلفة من وسائل التواصل الاجتماعي. الأكثر شيوعًا هي الشبكات الشخصية مثل Facebook ، حيث تتواصل مع أشخاص آخرين. هناك ، مواقع مشاركة الوسائط مثل Instagram ، حيث تقوم بنشر الصور. هناك أيضًا منتديات ، حيث يلتقي الأشخاص للدردشة ، حول مواضيع محددة ، والنشر الاجتماعي ، مثل KidBlog حيث تنشر ، مقالات أطول.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202248Z" creationid="ansas" creationdate="20201209T145659Z">
+        <seg>هناك أنواع مختلفة من وسائل التواصل الاجتماعي. الأكثر شيوعًا هي الشبكات الشخصية مثل فيسبوك ، حيث تتواصل مع أشخاص آخرين. هناك ، مواقع مشاركة الوسائط مثل انستغرام ، حيث تقوم بنشر الصور. هناك أيضًا منتديات ، حيث يلتقي الأشخاص للدردشة ، حول مواضيع محددة ، والنشر الاجتماعي ، مثل كيدبلوغ حيث تنشر ، مقالات أطول.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,10 +2078,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>They  laughed  because  the  clown  made  a  , ridiculous  face.&lt;span class="_enter"&gt; &lt;br/&gt;, ridiculous  ridiculous  ridiculous  , ridiculous  ridiculous&lt;span class="_enter"&gt; &lt;br/&gt;, The  glamorous  movie  star  posed  for  a  , picture.&lt;span class="_enter"&gt; &lt;br/&gt;, glamorous  glamorous  glamorous  glamorous  , glamorous&lt;span class="_enter"&gt; &lt;br/&gt;, The  clown  looked  ridiculous  in  the  , glamorous  dress.&lt;span class="_enter"&gt; &lt;br/&gt;, ridiculous  glamorous  ridiculous  glamorous</seg>
+        <seg>They  laughed  because  the  clown  made  a  , ridiculous  face. ridiculous  ridiculous  ridiculous  , ridiculous  ridiculous The  glamorous  movie  star  posed  for  a  , picture. glamorous  glamorous  glamorous  glamorous  , glamorous The  clown  looked  ridiculous  in  the  , glamorous  dress. ridiculous  glamorous  ridiculous  glamorous</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T142232Z" creationid="anas" creationdate="20220227T142232Z">
-        <seg>They  laughed  because  the  clown  made  a  , ridiculous  face. ridiculous  ridiculous  ridiculous  , ridiculous  ridiculous The  glamorous  movie  star  posed  for  a  , picture. glamorous  glamorous  glamorous  glamorous  , glamorous The  clown  looked  ridiculous  in  the  , glamorous  dress ridiculous  glamorous  ridiculous  glamorous</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214816Z" creationid="anas" creationdate="20220305T214816Z">
+        <seg>ضحكوا لأن المهرج كان له وجه سخيف. سخيفة سخيفة سخيفة سخيفة سخيفة قدم النجم السينمائي الفاتن صورة. براقة براقة براقة براقة ، براقة بدا المهرج سخيفًا في الفستان الفاتن. ساحر ساحر ساحر ساحر</seg>
       </tuv>
     </tu>
     <tu>
@@ -1970,6 +2098,14 @@
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145207Z" creationid="ansas" creationdate="20201209T145207Z">
         <seg>الكوميديا الإلهية هي قصيدة ملحمية كتبها دانتي أليغييري. وهي مقسمة إلى ثلاثة أجزاء ، والجحيم هو الأكثر شهرة. كلمة "كوميديا" في العنوان لا تعني أن القصيدة مضحكة بل أن لها نهاية إيجابية. يجب أن يسافر دانتي عبر 9 دوائر متحدة المركز من المعاناة ليتم إنقاذها.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The  Electoral  College  consists  of  538  , electors.  A  majority  of  270  electoral  , votes  is  required  to  elect  the  , President.  Your  state's  entitled  , allotment  of  electors  equals  the  number  , of  members  in  its  Congressional  , delegation:  one  for  each  member  in  the  , House  of  Representatives  plus  two  for  , your  Senators.  The  president  of  the  , USA  gets  elected  every  four  years.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203750Z" creationid="anas" creationdate="20220301T203750Z">
+        <seg>تتكون الهيئة الانتخابية من 538 ناخبا. أغلبية 270 صوتا ، الأصوات المطلوبة لانتخاب الرئيس. يساوي التخصيص المخول للولاية عدد الأعضاء في الكونجرس والوفد: واحد لكل عضو في مجلس النواب بالإضافة إلى اثنين لأعضاء مجلس الشيوخ. يتم انتخاب رئيس الولايات المتحدة الأمريكية كل أربع سنوات.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2168,8 @@
       <tuv lang="en-US">
         <seg>The  National  Aeronautics  and  Space  , Administration  or  NASA  is  an  executive  , branch  agency  of  the  United  States  , government,  responsible  for  the  , nation's  civilian  space  program  and  , aeronautics  and  aerospace  research.  The  , Apollo  program  started  by  President  , J.F.  Kennedy  in  the  1960s  was  designed  , to  send  a  man  to  the  Moon  and  return  , him  safely  back  to  Earth.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T150520Z" creationid="ansas" creationdate="20201209T150520Z">
-        <seg>الوطنية للملاحة الجوية والفضاء ، الإدارة أو ناسا هي وكالة تنفيذية تابعة للولايات المتحدة ، والحكومة ، ومسؤولة عن برنامج الفضاء المدني في البلاد ، وأبحاث الطيران والفضاء. تم تصميم برنامج Apollo الذي بدأه الرئيس JF Kennedy في الستينيات من القرن الماضي ، لإرسال رجل إلى القمر والعودة إليه بأمان إلى الأرض.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214422Z" creationid="ansas" creationdate="20201209T150520Z">
+        <seg>الوطنية للملاحة الجوية والفضاء ، الإدارة أو ناسا هي وكالة تنفيذية تابعة للولايات المتحدة ، والحكومة ، ومسؤولة عن برنامج الفضاء المدني للدولة ، وأبحاث الطيران والفضاء. تم تصميم برنامج ابولو الذي بدأه الرئيس جاي اف كينيدي  في الستينيات من القرن الماضي ، لإرسال رجل إلى القمر والعودة إليه بأمان إلى الأرض.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2048,8 +2184,8 @@
       <tuv lang="en-US">
         <seg>The  Old  Man  and  the  Sea  is  the  most  , famous  work  written  by  Ernest  , Hemingway.  The  story  is  centered  around  , an  old  Cuban  fisherman  Santiago,  who  , spends  84  days  fishing  without  catching  , anything.  On  the  85th  day,  his  bait  is  , finally  taken  by  a  big  fish  he  , believes  to  be  a  marlin.  The  story  , describes  the  fisherman's  battle  with  , the  marlin  and  his  journey  back  to  the  , shore.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T160736Z" creationid="ansas" creationdate="20201209T160736Z">
-        <seg>The Old Man and the Sea هو أشهر عمل كتبه إرنست ، همنغواي. تدور القصة حول صياد كوبي قديم ، سانتياغو ، يقضي 84 يومًا في الصيد دون أن يصطاد أي شيء. في اليوم الخامس والثمانين ، أخرج طعمه أخيرًا سمكة كبيرة يعتقد أنها مارلين. القصة ، تصف معركة الصياد مع المارلن ورحلته إلى الشاطئ.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T203822Z" creationid="ansas" creationdate="20201209T160736Z">
+        <seg>الشيخ و البحر هو أشهر عمل كتبه إرنست ، همنغواي. تدور القصة حول صياد كوبي قديم ، سانتياغو ، يقضي 84 يومًا في الصيد دون أن يصطاد أي شيء. في اليوم الخامس والثمانين ، أخرج طعمه أخيرًا سمكة كبيرة يعتقد أنها مارلين. القصة ، تصف معركة الصياد مع المارلن ورحلته إلى الشاطئ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2072,8 +2208,8 @@
       <tuv lang="en-US">
         <seg>The  Perseids  are  a  meteor  shower  , associated  with  the  comet  Swift-Tuttle.  , Their  name  is  due  to  the  fact  that  , they  appear  to  hail  from  the  , constellation  Perseus.  The  cloud  , consists  of  particles  ejected  by  the  , comet  as  it  travels  on  its  133-year  , orbit.  Most  of  the  particles  have  been  , part  of  the  cloud  for  around  a  , thousand  years.  During  its  peak,  the  , rate  of  meteors  reaches  60  or  more  per  , hour.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T150528Z" creationid="ansas" creationdate="20201209T150528Z">
-        <seg>Perseids هي عبارة عن دش نيزكي مرتبط بالمذنب Swift-Tuttle. يرجع اسمهم إلى حقيقة أنهم ينحدرون من كوكبة فرساوس. تتكون السحابة من جسيمات يقذفها المذنب بينما يسافر في مداره البالغ 133 عامًا. معظم الجسيمات كانت جزءًا من السحابة منذ حوالي ألف عام. خلال ذروتها ، يصل معدل النيازك إلى 60 أو أكثر في الساعة.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202543Z" creationid="ansas" creationdate="20201209T150528Z">
+        <seg>البرشاويات  هي عبارة عن دش نيزكي مرتبط بالمذنب سويفت تاتل . يرجع اسمهم إلى حقيقة أنهم ينحدرون من كوكبة فرساوس. تتكون السحابة من جسيمات يقذفها المذنب بينما يسافر في مداره البالغ 133 عامًا. معظم الجسيمات كانت جزءًا من السحابة منذ حوالي ألف عام. خلال ذروتها ، يصل معدل النيازك إلى 60 أو أكثر في الساعة.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2126,10 +2262,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  artist  painted  a  beautiful  scene  , with  mountains.&lt;span class="_enter"&gt; &lt;br/&gt;, scene  scene  scene  scene  scene&lt;span class="_enter"&gt; &lt;br/&gt;, I  love  learning  about  the  universe  in  , science  class.&lt;span class="_enter"&gt; &lt;br/&gt;, science  science  science  science  science&lt;span class="_enter"&gt; &lt;br/&gt;, She  drew  a  scene  of  her  science  , classroom.&lt;span class="_enter"&gt; &lt;br/&gt;, scene  science  scene  science</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T141857Z" creationid="anas" creationdate="20220227T141857Z">
         <seg>The  artist  painted  a  beautiful  scene  , with  mountains. scene  scene  scene  scene  scene I  love  learning  about  the  universe  in  , science  class. science  science  science  science  science She  drew  a  scene  of  her  science  , classroom. scene  science  scene  science</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214805Z" creationid="anas" creationdate="20220305T214805Z">
+        <seg>رسمت الفنانة مشهد جميل مع الجبال. مشهد مشهد مشهد مشهد مشهد أحب التعرف على الكون في فصل العلوم. علم العلوم وعلوم العلوم ، قامت برسم مشهد لعلومها ، حجرة الدراسة. مشهد علوم المشهد</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,18 +2294,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  bright  flash  of  lightning  lit  up  , the  night  sky.&lt;span class="_enter"&gt; &lt;br/&gt;, lightning  lightning  lightning  lightning  , lightning&lt;span class="_enter"&gt; &lt;br/&gt;, The  sun  is  lightening  the  sky  as  it  , rises.&lt;span class="_enter"&gt; &lt;br/&gt;, lightening  lightening  lightening  , lightening  lightening&lt;span class="_enter"&gt; &lt;br/&gt;, Flashes  of  lightning  are  lightening  up  , the  sky.&lt;span class="_enter"&gt; &lt;br/&gt;, lightning  lightening  lightning  lightening</seg>
+        <seg>The  bright  flash  of  lightning  lit  up  , the  night  sky lightning  lightning  lightning  lightning  , lightnin The  sun  is  lightening  the  sky  as  it  , rises lightening  lightening  lightening  , lightening  lightenin Flashes  of  lightning  are  lightening  up  , the  sky lightning  lightening  lightning  lightening</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140347Z" creationid="anas" creationdate="20220227T140347Z">
-        <seg>The  bright  flash  of  lightning  lit  up  , the  night  sky. lightning  lightning  lightning  lightning  , lightning The  sun  is  lightening  the  sky  as  it  , rises. lightening  lightening  lightening  , lightening  lightening&lt; Flashes  of  lightning  are  lightening  up  , the  sky. lightning  lightening  lightning  lightening</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200945Z" creationid="anas" creationdate="20220301T200945Z">
+        <seg>أضاء وميض البرق ، سماء الليل ، برق ، برق ، برق ، برق ، الشمس تضيء السماء كما هي ، تشرق برق برق ، برق برق ومضات من برق تضيء ، سماء برق برق برق</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  c2  in  the  equation  stands  for  the  , speed  of  light  squared.  To  square  , something  means  to  multiply  it  by  , itself,  so  it  is  approximately&lt;span class="_enter"&gt; &lt;br/&gt;, (3  *  108)2  is  equal  to  (9  *  1016)  , meters2/seconds2  is  equal  to  , 90,000,000,000,000,000  meters2/seconds2.</seg>
+        <seg>The  c2  in  the  equation  stands  for  the  , speed  of  light  squared.  To  square  , something  means  to  multiply  it  by  , itself,  so  it  is  approximately (3  *  108)2  is  equal  to  (9  *  1016)  , meters2/seconds2  is  equal  to  , 90,000,000,000,000,000  meters2/seconds2.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T120426Z" creationid="ansas" creationdate="20201206T120426Z">
-        <seg>يرمز c2 في المعادلة إلى مربع سرعة الضوء. للتربيع ، يعني شيء ما ضربه في نفسه ، لذا فهو تقريبًا  (3 * 108) 2 يساوي (9 * 1016) ، متر 2 / ثانية 2 يساوي ، 90.000.000.000.000.000 متر 2 / ثانية 2.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T124624Z" creationid="anas" creationdate="20220304T124624Z">
+        <seg>يرمز سي2 في المعادلة إلى مربع سرعة الضوء. للتربيع ، يعني شيء ما ضربه في نفسه ، لذا فهو تقريبًا  (3 * 108) 2 يساوي (9 * 1016) ، متر 2 / ثانية 2 يساوي ، 90.000.000.000.000.000 متر 2 / ثانية 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,10 +2318,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  dog  dug  a  hole  in  the  backyard  , for  his  bone.&lt;span class="_enter"&gt; &lt;br/&gt;, hole  hole  hole  hole  hole&lt;span class="_enter"&gt; &lt;br/&gt;, My  brother  and  sister  ate  the  whole  , pizza.&lt;span class="_enter"&gt; &lt;br/&gt;, whole  whole  whole  whole  whole&lt;span class="_enter"&gt; &lt;br/&gt;, The  fat  squirrel  squished  its  whole  , body  into  the  tiny  hole  in  the  tree.&lt;span class="_enter"&gt; &lt;br/&gt;, hole  whole  hole  whole</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T141950Z" creationid="anas" creationdate="20220227T141944Z">
         <seg>The  dog  dug  a  hole  in  the  backyard  , for  his  bone. hole  hole  hole  hole  hole My  brother  and  sister  ate  the  whole  , pizza. whole  whole  whole  whole  whole The  fat  squirrel  squished  its  whole  , body  into  the  tiny  hole  in  the  tree. hole  whole  hole  whole</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214807Z" creationid="anas" creationdate="20220305T214807Z">
+        <seg>حفر الكلب حفرة في الفناء الخلفي لعظمه. أكل أخي وأختي البيتزا كلها. كله كله كله كله كله كله. حفرة كاملة حفرة كاملة</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The  first  woman  to  win  a  Nobel  Prize  , was  Marie  Sklodowska  Curie,  who  won  , the  Nobel  Prize  in  Physics  in  1903  , with  her  husband,  Pierre  Curie,  and  , Henri  Becquerel.  Curie  is  also  the  , only  woman  to  have  won  multiple  Nobel  , Prizes;  in  1911,  she  won  the  Nobel  , Prize  in  Chemistry.  Curie's  daughter,  , Irene  Joliot-Curie,  won  the  Nobel  Prize  , in  Chemistry  in  1935.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201249Z" creationid="anas" creationdate="20220301T201249Z">
+        <seg>كانت ماري سكلودوفسكا كوري أول امرأة تفوز بجائزة نوبل ، وفازت بجائزة نوبل في الفيزياء عام 1903 مع زوجها بيير كوري وهنري بيكريل. كوري هي أيضًا المرأة الوحيدة التي فازت بالعديد من جوائز نوبل ؛ في عام 1911 ، حصلت على جائزة نوبل في الكيمياء. فازت ابنة كوري ، إيرين جوليو كوري ، بجائزة نوبل في الكيمياء عام 1935.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The  four  farthest  planets  in  the  solar  , system,  Jupiter,  Saturn,  Uranus,  and  , Neptune,  are  called  gas  giants.  This  , is  because  they  are  large  planets  that  , are  mostly  made  of  gas,  such  as  , hydrogen  and  helium,  with  a  relatively  , small  rocky  core.  Even  though  they  are  , made  of  gas,  they  have  significantly  , more  mass  than  the  terrestrial  planets.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201207T180143Z" creationid="ansas" creationdate="20201207T180143Z">
@@ -2222,10 +2366,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  four  outer  planets,  or  gas  giants,  , collectively  make  up  99%  of  the  mass  , known  to  orbit  the  Sun.  Jupiter  and  , Saturn  are  each  many  tens  of  times  the  , mass  of  the  Earth  and  consist  , overwhelmingly  of  hydrogen  and  helium.  , Uranus  and  Neptune  are  far  less  , massive  (&amp;lt;20  Earth  masses)  and  possess  , more  ice  in  their  makeup.</seg>
+        <seg>The  general  concept  of  human  posture  , refers  to  the  "carriage  of  the  body  as  , a  whole,  the  attitude  of  the  body,  or  , the  position  of  the  limbs."  Good  , posture  helps  improve  our  , concentration,  letting  us  work  longer  , and  harder.  It  also  prevents  sore  , muscles,  leading  us  to  feel  happier  , and  healthier  both  at  and  away  from  , the  computer.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201207T174131Z" creationid="ansas" creationdate="20201207T174131Z">
-        <seg>تشكل الكواكب الخارجية الأربعة ، أو عمالقة الغاز ، مجتمعة 99٪ من الكتلة ، والمعروف أنها تدور حول الشمس. كوكب المشتري وزحل كل منهما تساوي عشرات المرات كتلة الأرض ويتكونان بأغلبية ساحقة من الهيدروجين والهيليوم. وأورانوس ونبتون أقل كثافة بكثير (أقل من 20 كتلة أرضية) ويمتلكان المزيد من الجليد في تركيبتهما.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T202012Z" creationid="anas" creationdate="20220301T202012Z">
+        <seg>يشير المفهوم العام لوضعية الإنسان إلى "حمل الجسد ككل ، موقف الجسد ، أو موقع الأطراف". تساعد الوضعية الجيدة في تحسين تركيزنا ، مما يتيح لنا العمل لفترة أطول وبصورة أكبر. كما أنه يمنع آلام العضلات ، مما يجعلنا نشعر بسعادة أكبر وصحة أفضل سواء في الكمبيوتر أو بعيدًا عنه.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,8 +2440,8 @@
       <tuv lang="en-US">
         <seg>The  oldest  part  of  New  York  City,  the  , island  of  Manhattan,  still  has  its  , original  Lenape  Native  American  name.  , Although  native  people  such  as  the  , Lenape  and  Canarsees  had  lived  there  , for  many  thousands  of  years,  New  York  , City  was  first  explored  by  Europeans  , in  the  1500s.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113521Z" creationid="ansas" creationdate="20201206T113521Z">
-        <seg>الجزء الأقدم من مدينة نيويورك ، جزيرة مانهاتن ، لا يزال يحمل اسم Lenape الأصلي الأمريكي الأصلي. ، على الرغم من أن السكان الأصليين مثل ال ، لينابي وكانارسي كانوا قد عاشوا هناك ، لآلاف السنين ، اكتشف الأوروبيون مدينة نيويورك لأول مرة في القرن السادس عشر.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T195836Z" creationid="ansas" creationdate="20201206T113521Z">
+        <seg>الجزء الأقدم من مدينة نيويورك ، جزيرة مانهاتن ، لا يزال يحمل اسم ليناب الأصلي الأمريكي الأصلي. ، على الرغم من أن السكان الأصليين مثل ال ، لينابي وكانارسي كانوا قد عاشوا هناك ، لآلاف السنين ، اكتشف الأوروبيون مدينة نيويورك لأول مرة في القرن السادس عشر.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,10 +2478,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  scent  of  baking  cookies  drifted  , from  the  bakery.&lt;span class="_enter"&gt; &lt;br/&gt;, scent  scent  scent  scent  scent&lt;span class="_enter"&gt; &lt;br/&gt;, A  penny  is  one  cent  and  a  quarter  is  , twenty  five  cents.&lt;span class="_enter"&gt; &lt;br/&gt;, cent  cent  cent  cent  cent&lt;span class="_enter"&gt; &lt;br/&gt;, The  scent  of  the  cookies  convinced  him  , to  spend  his  last  cent  on  them.&lt;span class="_enter"&gt; &lt;br/&gt;, scent  cent  scent  cent</seg>
+        <seg>The  scent  of  baking  cookies  drifted  , from  the  bakery. scent  scent  scent  scent  scent A  penny  is  one  cent  and  a  quarter  is  , twenty  five  cents. cent  cent  cent  cent  cent The  scent  of  the  cookies  convinced  him  , to  spend  his  last  cent  on  them. scent  cent  scent  cent</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T142301Z" creationid="anas" creationdate="20220227T142301Z">
-        <seg>The  scent  of  baking  cookies  drifted  , from  the  bakery. scent  scent  scent  scent  scent A  penny  is  one  cent  and  a  quarter  is  , twenty  five  cents cent  cent  cent  cent  cent The  scent  of  the  cookies  convinced  him to  spend  his  last  cent  on  them scent  cent  scent  cent</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214818Z" creationid="anas" creationdate="20220305T214818Z">
+        <seg>انجرفت رائحة الخبز من المخبوزات. برائحة الرائحة برائحة الرائحة البنس هو واحد سنت والربع خمسة وعشرون سنتا. سنت سنت سنت سنت أقنعته رائحة البسكويت بأن ينفق سنته الأخيرة عليها. سنت رائحة رائحة</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,10 +2518,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>The  weather  is  supposed  to  be  warmer  , tomorrow.&lt;span class="_enter"&gt; &lt;br/&gt;, weather  weather  weather  weather  weather&lt;span class="_enter"&gt; &lt;br/&gt;, You  can  still  come  whether  or  not  you  , are  invited.&lt;span class="_enter"&gt; &lt;br/&gt;, whether  whether  whether  whether  whether&lt;span class="_enter"&gt; &lt;br/&gt;, Whether  the  weather  is  good,  or  , whether  the  weather  is  bad,  whatever  , the  weather,  we'll  weather  together.&lt;span class="_enter"&gt; &lt;br/&gt;, weather  whether  weather  whether</seg>
+        <seg>The  weather  is  supposed  to  be  warmer  , tomorrow weather  weather  weather  weather  weather, You  can  still  come  whether  or  not  you  , are  invited whether  whether  whether  whether  whether, Whether  the  weather  is  good,  or  , whether  the  weather  is  bad,  whatever  , the  weather,  we'll  weather  together weather  whether  weather  whether</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T194755Z" creationid="anas" creationdate="20220227T140319Z">
-        <seg>من المفترض أن يكون الطقس أكثر دفئًا غدًا.  الطقس الطقس الطقس الطقس لا يزال بإمكانك الحضور سواء تمت دعوتك أم لا سواء أكان ما إذا كان سواء كان الطقس جيدًا ، أو ، سواء كان الطقس سيئًا ، أو أيًا كان الطقس ، فسوف نجتاز معًاالطقس سواء الطقس</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200937Z" creationid="anas" creationdate="20220301T200937Z">
+        <seg>من المفترض أن يكون الطقس أكثر دفئًا ، الطقس غدًا ، الطقس ، الطقس ، الطقس ، لا يزال بإمكانك الحضور سواء كنت مدعوًا أم لا ، سواء أكان سواء أكان الطقس جيدًا أم الطقس سيئًا أم لا. ، سنتعامل مع الطقس معًا سواء كان الطقس</seg>
       </tuv>
     </tu>
     <tu>
@@ -2406,10 +2550,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Though  she  be  but  little,  she  is  , fierce.&lt;span class="_enter"&gt; &lt;br/&gt;, though  though  though  though  though&lt;span class="_enter"&gt; &lt;br/&gt;, He  gave  a  thorough  explanation  of  the  , math  principle.&lt;span class="_enter"&gt; &lt;br/&gt;, thorough  thorough  thorough  thorough  , thorough&lt;span class="_enter"&gt; &lt;br/&gt;, Even  though  he  was  thorough,  he  still  , made  a  mistake.&lt;span class="_enter"&gt; &lt;br/&gt;, though  thorough  though  thorough</seg>
+        <seg>Though  she  be  but  little,  she  is  , fierce though  though  though  though  though, He  gave  a  thorough  explanation  of  the  , math  principle thorough  thorough  thorough  thorough  , thorough, Even  though  he  was  thorough,  he  still  , made  a  mistake though  thorough  though  thorough</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140832Z" creationid="anas" creationdate="20220227T140832Z">
-        <seg>Though  she  be  but  little,  she  is  , fierce though  though  though  though  though He  gave  a  thorough  explanation  of  the  , math  principle. thorough  thorough  thorough  thorough  , thorough Even  though  he  was  thorough,  he  still  , made  a  mistake. though  thorough  though  thorough</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201045Z" creationid="anas" creationdate="20220301T201045Z">
+        <seg>على الرغم من أنها ليست سوى صغيرة ، إلا أنها شرسة على الرغم من أنه على الرغم من ذلك ، فقد قدم شرحًا شاملاً لمبدأ الرياضيات شاملًا وشاملاً وشاملاً ، على الرغم من أنه كان دقيقًا ، إلا أنه ارتكب خطأ بالرغم من أنه شامل</seg>
       </tuv>
     </tu>
     <tu>
@@ -2422,10 +2566,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>To  prepare  for  a  test,  you  should  , study  hard.&lt;span class="_enter"&gt; &lt;br/&gt;, prepare  prepare  prepare  prepare  prepare&lt;span class="_enter"&gt; &lt;br/&gt;, Your  presence  in  class  makes  everyone  , happy.&lt;span class="_enter"&gt; &lt;br/&gt;, presence  presence  presence  presence  , presence&lt;span class="_enter"&gt; &lt;br/&gt;, They  will  prepare  for  the  presence  of  , the  queen.&lt;span class="_enter"&gt; &lt;br/&gt;, prepare  presence  prepare  presence</seg>
+        <seg>To  prepare  for  a  test,  you  should  , study  hard. prepare  prepare  prepare  prepare  prepare Your  presence  in  class  makes  everyone  , happy. presence  presence  presence  presence  , presence They  will  prepare  for  the  presence  of  , the  queen. prepare  presence  prepare  presence</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T142036Z" creationid="anas" creationdate="20220227T142010Z">
-        <seg>To  prepare  for  a  test,  you  should  , study  hard. prepare  prepare  prepare  prepare  prepare Your  presence  in  class  makes  everyone  , happy. presence  presence  presence  presence  , presenceThey  will  prepare  for  the  presence  of  , the  queen prepare  presence  prepare  presence</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214810Z" creationid="anas" creationdate="20220305T214810Z">
+        <seg>للتحضير للاختبار ، يجب أن تدرس بجد. استعد استعد استعد استعد حضورك وجودك في الفصل يجعل الجميع سعداء. الوجود الوجود الوجود ، الوجود سوف يستعدان لحضور الملكة. تحضير الوجود تحضير الحضور</seg>
       </tuv>
     </tu>
     <tu>
@@ -2486,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Water  is  a  molecule  made  of  2  hydrogen  , atoms  and  1  oxygen  atom.  Its  chemical  , formula  is  H2O.  Water  has  surface  , tension,  so  a  little  bit  of  water  , makes  drops  rather  than  spreading  out  , over  the  surface.  Though  a  human  being  , can  survive  for  up  to  a  week  without  , food,  they  can  only  survive  for  a  day  , or  two  without  water.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201233Z" creationid="anas" creationdate="20220301T201233Z">
+        <seg>الماء عبارة عن جزيء مكون من 2 هيدروجين وذرة وذرة أكسجين. تركيبته الكيميائية هي H2O. الماء له سطح وتوتر ، لذا فإن القليل من الماء يصنع قطرات بدلاً من أن ينتشر على السطح. على الرغم من أن الإنسان يمكنه البقاء على قيد الحياة لمدة تصل إلى أسبوع بدون طعام ، إلا أنه لا يمكنه العيش إلا ليوم واحد أو يومين بدون ماء.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Weather  is  the  state  of  the  atmosphere  , at  any  time,  including  things  such  as  , temperature,  precipitation,  air  , pressure,  and  cloud  cover.  Daily  , changes  in  the  weather  are  due  to  , winds  and  storms.  Seasonal  changes  are  , due  to  the  Earth  revolving  around  the  , sun.</seg>
       </tuv>
       <tuv lang="ar-AE" changeid="ansas" changedate="20201206T113253Z" creationid="ansas" creationdate="20201206T113253Z">
@@ -2494,10 +2646,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>We  should  do  all  we  can  to  save  the  , environment.&lt;span class="_enter"&gt; &lt;br/&gt;, environment  environment  environment  , environment  environment&lt;span class="_enter"&gt; &lt;br/&gt;, Use  your  best  judgment  when  making  , choices.&lt;span class="_enter"&gt; &lt;br/&gt;, judgment  judgment  judgment  judgment  , judgment&lt;span class="_enter"&gt; &lt;br/&gt;, Good  judgment  can  save  the  environment.&lt;span class="_enter"&gt; &lt;br/&gt;, environment  judgment  environment  judgment</seg>
+        <seg>We  should  do  all  we  can  to  save  the  , environment environment  environment  environment  , environment  environment, Use  your  best  judgment  when  making  , choices judgment  judgment  judgment  judgment  , judgment, Good  judgment  can  save  the  environment environment  judgment  environment  judgment</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140414Z" creationid="anas" creationdate="20220227T140414Z">
-        <seg>We  should  do  all  we  can  to  save  the  , environment.environment  environment  environment  , environment  environment Use  your  best  judgment  when  making  , choices. judgment  judgment  judgment  judgment  , judgment Good  judgment  can  save  the  environment environment  judgment  environment  judgment</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200950Z" creationid="anas" creationdate="20220301T200950Z">
+        <seg>يجب أن نبذل كل ما في وسعنا لإنقاذ البيئة والبيئة والبيئة والبيئة واستخدام أفضل حكم عند اتخاذ القرارات وحكم الخيارات على الحكم والحكم والحكم الجيد يمكن أن ينقذ البيئة بيئة الحكم على البيئة</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,16 +2752,16 @@
       <tuv lang="en-US">
         <seg>Words  per  minute  (WPM)  is  a  measure  of  , input  or  output  speed.  For  the  , purposes  of  WPM  measurement,  a  word  is  , standardized  to  five  characters  or  , keystrokes.  The  average  person  types  , around  40  words  per  minute.  However,  , professional  typists  type  a  lot  faster.  , On  average,  professional  typists  can  , type  upwards  of  65  to  80  WPM.</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20201209T145206Z" creationid="ansas" creationdate="20201209T145206Z">
-        <seg>الكلمات في الدقيقة (WPM) هي مقياس لسرعة الإدخال أو الإخراج. لأغراض قياس WPM ، تكون الكلمة موحدة إلى خمسة أحرف أو ضغطات المفاتيح. يكتب الشخص العادي ، حوالي 40 كلمة في الدقيقة. ومع ذلك ، فإن الطابعين المحترفين يكتبون بشكل أسرع. ، في المتوسط ، يمكن للكاتبين المحترفين كتابة ما يزيد عن 65 إلى 80 WPM.</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201610Z" creationid="ansas" creationdate="20201209T145206Z">
+        <seg>الكلمات في الدقيقة (كفد) هي مقياس لسرعة الإدخال أو الإخراج. لأغراض قياس كفد ، تكون الكلمة موحدة إلى خمسة أحرف أو ضغطات المفاتيح. يكتب الشخص العادي ، حوالي 40 كلمة في الدقيقة. ومع ذلك ، فإن الطابعين المحترفين يكتبون بشكل أسرع. ، في المتوسط ، يمكن للكاتبين المحترفين كتابة ما يزيد عن 65 إلى 80 كفد.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You  should  keep  your  personal  , belongings  safe.&lt;span class="_enter"&gt; &lt;br/&gt;, personal  personal  personal  personal  , personal&lt;span class="_enter"&gt; &lt;br/&gt;, The  company's  personnel  were  trained  , well.&lt;span class="_enter"&gt; &lt;br/&gt;, personnel  personnel  personnel  personnel  , personnel&lt;span class="_enter"&gt; &lt;br/&gt;, The  company's  personnel  each  have  a  , personal  laptop.&lt;span class="_enter"&gt; &lt;br/&gt;, personal  personnel  personal  personnel</seg>
+        <seg>You  should  keep  your  personal  , belongings  safe personal  personal  personal  personal  , personal, The  company's  personnel  were  trained  , well personnel  personnel  personnel  personnel  , personnel, The  company's  personnel  each  have  a  , personal  laptop personal  personnel  personal  personnel</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140509Z" creationid="anas" creationdate="20220227T140509Z">
-        <seg>You  should  keep  your  personal  , belongings  safe. personal  personal  personal  personal  , personal The  company's  personnel  were  trained  , well personnel  personnel  personnel  personnel  , personnel The  company's  personnel  each  have  a  , personal  laptop. personal  personnel  personal  personnel</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T201021Z" creationid="anas" creationdate="20220301T201021Z">
+        <seg>يجب أن تحافظ على أمتعتك الشخصية وآمنة وشخصية وشخصية وشخصية وشخصية ، وقد تم تدريب موظفي الشركة ، وموظفي الشركة بشكل جيد ، والموظفين ، والموظفين ، وموظفي الشركة لديهم جهاز كمبيوتر محمول شخصي ، وموظف شخصي شخصي</seg>
       </tuv>
     </tu>
     <tu>
@@ -2632,8 +2784,8 @@
       <tuv lang="en-US">
         <seg>_at_  this+point-  you\  should-  be'  able|  , to  type~  all"  the{  letters  and  , symbols{  on}  your  |keyboard\</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T194648Z" creationid="anas" creationdate="20220301T194648Z">
-        <seg>_at_ هذه + النقطة- يجب أن تكون قادرًا | ، لكتابة ~ كل "الأحرف والرموز {في} على | لوحة مفاتيحك \</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T213358Z" creationid="anas" creationdate="20220301T194648Z">
+        <seg>_في_ هذه + النقطة- يجب أن تكون قادرًا | ، لكتابة ~ كل "الأحرف والرموز {في} على | لوحة مفاتيحك \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2794,14 @@
       </tuv>
       <tuv lang="ar-AE" changeid="anas" changedate="20220301T194239Z" creationid="anas" creationdate="20220301T194239Z">
         <seg>_ و + هما _أكثر _ أمثلة + من + ، رموز_ في + لوحة المفاتيح +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a!s@d#f$g%h^j&amp;amp;k*l(;)  q!w@e3r$t%y^u&amp;amp;i*o(p)  , z!x@c#v$b%n^m&amp;amp;,*.(</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T220330Z" creationid="anas" creationdate="20220305T220330Z">
+        <seg>ش! س @ ي # ب $ ل٪ ا ^ ت &amp; ن * ه (ك) ض! ص @ ث3ق $ ف٪غ ^ ع &amp; ه * خ (ح)، ئ! ء @ ؤ # ر $ ﻻ٪ ى ^ ة &amp;ن * ز (</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,10 +2838,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>ast  ast  ast  ast  ast  ast&lt;span class="_enter"&gt; &lt;br/&gt;, fast  last  fast  last  fast  last&lt;span class="_enter"&gt; &lt;br/&gt;, ast  ast  ast  ast  ast  ast&lt;span class="_enter"&gt; &lt;br/&gt;, vast  past  vast  past  vast  past&lt;span class="_enter"&gt; &lt;br/&gt;, ast  ast  ast  ast  ast  ast&lt;span class="_enter"&gt; &lt;br/&gt;, cast  blast  cast  blast  cast  blast</seg>
+        <seg>age  age  age  age  age  age stage  manage  stage  manage  stage  manage age  age  age  age  age  age page  wage  page  wage  page  wage age  age  age  age  age  age courage  foliage  courage  foliage  courage  , foliage</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135750Z" creationid="anas" creationdate="20220227T135733Z">
-        <seg>ast  ast  ast  ast  ast  ast fast  last  fast  last  fast  last ast  ast  ast  ast  ast  ast vast  past  vast  past  vast  past ast  ast  ast  ast  ast  ast cast  blast  cast  blast  cast  blast</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214848Z" creationid="anas" creationdate="20220305T214848Z">
+        <seg>العمر العمر العمر العمر العمر المرحلة إدارة المرحلة إدارة المرحلة إدارة العمر العمر العمر العمر العمر صفحة العمر صفحة الأجور صفحة الأجور العمر العمر العمر العمر العمر الشجاعة أوراق الشجر الشجاعة الشجاعة أوراق الشجر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ame  ame  ame  ame  ame  ame came  flame  came  flame  came  flame ame  ame  ame  ame  ame  ame shame  blame  shame  blame  shame  blame ame  ame  ame  ame  ame  ame game  same  game  same  game  same</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214842Z" creationid="anas" creationdate="20220305T214842Z">
+        <seg>ايمي ايمي ايمي ايمي ايمي جاء اللهب جاء اللهب ايمي ايمي ايمي ايمي عار اللوم عار اللوم عار اللوم ايمي ايمي امي امي امي اللعبة نفس اللعبة نفس اللعبة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ast  ast  ast  ast  ast  ast, fast  last  fast  last  fast  last, ast  ast  ast  ast  ast  ast, vast  past  vast  past  vast  past, ast  ast  ast  ast  ast  ast, cast  blast  cast  blast  cast  blast</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T221010Z" creationid="anas" creationdate="20220305T221010Z">
+        <seg>شسف شسف شسف شسف شسف شسف شسف استعجبا سريعًا أخيرًا سريعًا أخيرًا أخيرًا أستاست أستاست أست أست ، ماضٍ شاسع الماضي الشاسع ماضٍ شاسع</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ate  ate  ate  ate  ate  ate fate  late  fate  late  fate  late ate  ate  ate  ate  ate  ate hate  gate  hate  gate  hate  gate ate  ate  ate  ate  ate  ate date  rate  date  rate  date  rate</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214834Z" creationid="anas" creationdate="20220305T214834Z">
+        <seg>أكلت أكلت أكلت أكلت أكلت مصير متأخر مصير متأخر أكلت أكلت أكلت أكلت أكلت كراهية بوابة بوابة كراهية أكلت أكلت أكلت أكلت تاريخ معدل تاريخ معدل تاريخ معدل تاريخ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ave  ave  ave  ave  ave  ave gave  save  gave  save  gave  save ave  ave  ave  ave  ave  ave behave  forgave  behave  forgave  behave  , forgave ave  ave  ave  ave  ave  ave wave  cave  wave  cave  wave  cave</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214846Z" creationid="anas" creationdate="20220305T214846Z">
+        <seg>أفي أفي أفي أفي أعطى الحفظ أعطى الحفظ أعطى الحفظ أفي أفي أفي أفي أفي أفي أفي أفي أفي أفي أفي أفي أفي أفي أفي أفي أوف أوف أوف كاف موجة كهف موجة كهف</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>a~a`  j~k`  u~i`  e~w`  P~n`  c`x~</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T222051Z" creationid="anas" creationdate="20220305T222051Z">
+        <seg>ش~ش`  ت~ن`  u~i`  ث~ص`  ح~ى`  ؤ`ء~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ct  ct  ect  act  affect  architecture  , factors rc  rc  arc  erc  research  percent  percent va  va  eva  var  variety  various  medieval gn  gn  ign  gni  significant  significant  , significantly</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214849Z" creationid="anas" creationdate="20220305T214849Z">
+        <seg>يؤثر تأثير ct ct على العمارة ، والعوامل RC RC arc erc Research٪ النسبة المئوية va va eva var متنوعة متنوعة في العصور الوسطى gn gn ign gni ذات دلالة كبيرة ، بشكل ملحوظ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,18 +2918,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>eed  eed  eed  eed  eed  eed&lt;span class="_enter"&gt; &lt;br/&gt;, feed  seed  feed  seed  feed  seed&lt;span class="_enter"&gt; &lt;br/&gt;, eed  eed  eed  eed  eed  eed&lt;span class="_enter"&gt; &lt;br/&gt;, breed  need  breed  need  breed  need&lt;span class="_enter"&gt; &lt;br/&gt;, eed  eed  eed  eed  eed  eed&lt;span class="_enter"&gt; &lt;br/&gt;, indeed  greed  indeed  greed  indeed  greed</seg>
+        <seg>d_w+  w_q+  j+l_  n_i+  q_o+  c+x_</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135717Z" creationid="anas" creationdate="20220227T135717Z">
-        <seg>eed  eed  eed  eed  eed  eed feed  seed  feed  seed  feed  seed eed  eed  eed  eed  eed  eed breed  need  breed  need  breed  need eed  eed  eed  eed  eed  eed indeed  greed  indeed  greed  indeed  greed</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T212141Z" creationid="anas" creationdate="20220305T212141Z">
+        <seg>ي_ص+ ص_ض+ ت+ه_ ى_ه+ ض_خ+ ؤ+ء_</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>ef  ef  lef  eff  effect  effect  left&lt;span class="_enter"&gt; &lt;br/&gt;, sc  sc  isc  sco  discovery  science  , discovery&lt;span class="_enter"&gt; &lt;br/&gt;, ct  ct  ect  oct  affect  october  directly&lt;span class="_enter"&gt; &lt;br/&gt;, ex  ex  mex  exi  mexican  example  exchange&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+        <seg>e'c"  y'i"  n'c"  w"q'  i'p"  q'W"</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T141702Z" creationid="ansas" creationdate="20201209T160552Z">
-        <seg>ef ef lef تأثير تأثير اليسار sc sc isc sco discovery ، علم ، اكتشاف ، ct ct إلخ أكتوبر تؤثر بشكل مباشر في أكتوبر  exi exi mexican example exchange</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T210307Z" creationid="anas" creationdate="20220305T210307Z">
+        <seg>ة' ة' "ط "ط "ط 'ة'ة 'ة "ط"ط"ط</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>e-w=  c-v=  n-i=  q-e=  i=x-  s-a=</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T212106Z" creationid="anas" creationdate="20220305T212106Z">
+        <seg>ث-ص= ؤ-ر= ى-ه = ض-ص= ه=ء- س-ش= </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>eal  eal  eal  eal  eal  eal deal  real  deal  real  deal  real eal  eal  eal  eal  eal  eal real  meal  real  meal  real  meal eal  eal  eal  eal  eal  eal heal  peal  heal  peal  heal  peal</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214832Z" creationid="anas" creationdate="20220305T214832Z">
+        <seg>eal eal eal eal eal eal deal صفقة حقيقية صفقة حقيقية Real eal eal eal eal eal eal وجبة حقيقية وجبة حقيقية وجبة حقيقية eal eal eal eal eal heal peal heal peal peal peal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>eed  eed  eed  eed  eed  eed, feed  seed  feed  seed  feed  seed, eed  eed  eed  eed  eed  eed, breed  need  breed  need  breed  need, eed  eed  eed  eed  eed  eed, indeed  greed  indeed  greed  indeed  greed</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T220919Z" creationid="anas" creationdate="20220305T220919Z">
+        <seg>ييد ييد ييد ييد ييد ييد ييد، تغذية بذور تغذية بذور تغذية، ييد ييد ييد ييد ييد ييد ييد ييد، وتولد، تحتاج إلى سلالة تحتاج إلى سلالة، ييد ييد ييد ييد ييد ييد ، في الواقع الجشع بالفعل، والجشع بالفعل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ef  ef  lef  eff  effect  effect  left, sc  sc  isc  sco  discovery  science  , discovery, ct  ct  ect  oct  affect  october  directly, ex  ex  mex  exi  mexican  example  exchange</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214712Z" creationid="anas" creationdate="20220305T214712Z">
+        <seg>تأثير تأثير ef ef lef eff left، sc isc sco Discover science، اكتشف، ct ct ect oct يؤثر على أكتوبر مباشرة، ex mex exi mexican example exchange</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,34 +2982,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>ef  ef  ref  sef  refer  useful  useful&lt;span class="_enter"&gt; &lt;br/&gt;, gn  gn  ign  gna  signal  significant  , signal&lt;span class="_enter"&gt; &lt;br/&gt;, rc  rc  arc  rch  research  research  march&lt;span class="_enter"&gt; &lt;br/&gt;, ia  ia  nia  sia  iranian  asian  iranian&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+        <seg>ef  ef  ref  sef  refer  useful  useful, gn  gn  ign  gna  signal  significant  , signal, rc  rc  arc  rch  research  research  march, ia  ia  nia  sia  iranian  asian  iranian</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="ansas" changedate="20210709T180208Z" creationid="ansas" creationdate="20210709T174523Z">
-        <seg>بث بث بثق بثق ثابت ثابت لى لى لها لها لها باهظ سهل و شيف شهلس ؤق ؤق شقي شقي شقا قثا باحث مارش هش هش شاه شهى شهس شهس ايراني ايراني اسياوي ايراني اسياوي</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214744Z" creationid="anas" creationdate="20220305T214744Z">
+        <seg>ef المرجع sef يشير مفيد مفيد ، gn gn ign ، gna ، إشارة كبيرة ، إشارة ، RC RC arc rch Research March ، ia ia nia sia iranian asian iranian</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>ef  ef  sef  lef  useful  left  effect&lt;span class="_enter"&gt; &lt;br/&gt;, eg  eg  beg  leg  began  legal  began&lt;span class="_enter"&gt; &lt;br/&gt;, ex  ex  mex  exi  mexico  mexico  examples&lt;span class="_enter"&gt; &lt;br/&gt;, gn  gn  ign  ogn  significant  signals  , recognized&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T142326Z" creationid="anas" creationdate="20220227T142326Z">
         <seg>ef  ef  sef  lef  useful  left  effect eg  eg  beg  leg  began  legal  began ex  ex  mex  exi  mexico  mexico  examples gn  gn  ign  ogn  significant  signals  , recognized</seg>
       </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>eg  eg  beg  deg  began  degree  beginning&lt;span class="_enter"&gt; &lt;br/&gt;, rc  rc  erc  urc  percent  churches  percent&lt;span class="_enter"&gt; &lt;br/&gt;, ct  ct  ect  oct  architecture  october  , october&lt;span class="_enter"&gt; &lt;br/&gt;, sc  sc  isc  sch  schools  discovered  , school&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140948Z" creationid="anas" creationdate="20220227T140948Z">
-        <seg>eg  eg  beg  deg  began  degree  beginning rc  rc  erc  urc  percent  churches  percent ct  ct  ect  oct  architecture  october  , october sc  sc  isc  sch  schools  discovered  , school</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214819Z" creationid="anas" creationdate="20220305T214819Z">
+        <seg>ef ef sef lef تأثير يسار مفيد ، على سبيل المثال ، بدأ الساق التسول قانونيًا ، exi exi المكسيك ، المكسيك أمثلة gn gn ign ogn ، إشارات مهمة ، معترف بها</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>eg  eg  beg  leg  began  legal  began&lt;span class="_enter"&gt; &lt;br/&gt;, va  va  var  vas  vary  various  vast&lt;span class="_enter"&gt; &lt;br/&gt;, ex  ex  mex  ext  extent  example  mexico&lt;span class="_enter"&gt; &lt;br/&gt;, rc  rc  arc  urc  research  churches  , research&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+        <seg>eg  eg  beg  deg  began  degree  beginning, rc  rc  erc  urc  percent  churches  percent, ct  ct  ect  oct  architecture  october  , october, sc  sc  isc  sch  schools  discovered  , school</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T141102Z" creationid="anas" creationdate="20220227T141102Z">
-        <seg>eg  eg  beg  leg  began  legal  began va  va  var  vas  vary  various  vast ex  ex  mex  ext  extent  example  mexico rc  rc  arc  urc  research  churches  , research</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T213650Z" creationid="anas" creationdate="20220305T213650Z">
+        <seg>على سبيل المثال ، بداية درجة التسول ، بداية الدرجة الأولى ، نسبة الكنائس في نسبة الكنائس ، نسبة الكنائس ، اك اك اك  ، أكتوبر ، أكتوبر ، مد مد مد امد مدرسة  وجد ، مدرسة </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>eg  eg  beg  leg  began  legal  began, va  va  var  vas  vary  various  vast, ex  ex  mex  ext  extent  example  mexico, rc  rc  arc  urc  research  churches  , research</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T213946Z" creationid="anas" creationdate="20220305T213946Z">
+        <seg>على سبيل المثال ، بدأ مشروع التسول بدأ قانونيًا ، يختلف يخت يخت يخت يخت  عن نطاق واسع ، مثل مث مك مي مث مك  ، مثال ، المكسيك ، بح بح حب حب  ، كنائس أبحاث ابح ، البحث</seg>
       </tuv>
     </tu>
     <tu>
@@ -2782,10 +3022,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>ex  ex  mex  exa  examples  example  mexican&lt;span class="_enter"&gt; &lt;br/&gt;, rc  rc  arc  irc  march  aircraft  aircraft&lt;span class="_enter"&gt; &lt;br/&gt;, va  va  var  vas  various  vast  value&lt;span class="_enter"&gt; &lt;br/&gt;, ct  ct  act  ect  factors  architecture  , directly&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+        <seg>ex  ex  mex  exa  examples  example  mexican, rc  rc  arc  irc  march  aircraft  aircraft, va  va  var  vas  various  vast  value, ct  ct  act  ect  factors  architecture  , directly</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140213Z" creationid="anas" creationdate="20220227T140213Z">
-        <seg>ex  ex  mex  exa  examples  example  mexican rc  rc  arc  irc  march  aircraft  aircraft va  va  var  vas  various  vast  value ct  ct  act  ect  factors  architecture  , directly</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T221827Z" creationid="anas" creationdate="20220305T221827Z">
+        <seg>شرة شرة شرة شرة  أمثلة على سبيل المثال المكسيكي ، مبا مبا مبا مبا  مارس مطار ، عوا عوا عوا عوا المختلفة ذات القيمة الكبيرة ، شرة شرة شرة ، إلخ ، هندسة العوامل ، مباشرةً</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,50 +3078,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>gn  gn  ign  agn  signals  electromagnetic  , signals&lt;span class="_enter"&gt; &lt;br/&gt;, mb  mb  emb  umb  december  december  , numbers&lt;span class="_enter"&gt; &lt;br/&gt;, eg  eg  beg  leg  beginning  beginning  , college&lt;span class="_enter"&gt; &lt;br/&gt;, ex  ex  mex  ext  extent  extent  mexican&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+        <seg>gn  gn  ign  agn  signals  electromagnetic  , signals, mb  mb  emb  umb  december  december  , numbers, eg  eg  beg  leg  beginning  beginning  , college, ex  ex  mex  ext  extent  extent  mexican</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140902Z" creationid="anas" creationdate="20220227T140902Z">
-        <seg>gn  gn  ign  agn  signals  electromagnetic  , signals mb  mb  emb  umb  december  december  , numbers eg  eg  beg  leg  beginning  beginning  , college ex  ex  mex  ext  extent  extent  mexican</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>gn  gn  ign  gna  signal  significant  , signal&lt;span class="_enter"&gt; &lt;br/&gt;, eg  eg  beg  deg  began  began  degree&lt;span class="_enter"&gt; &lt;br/&gt;, mb  mb  emb  umb  december  members  numbers&lt;span class="_enter"&gt; &lt;br/&gt;, sc  sc  isc  sci  science  discovered  , science&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T140003Z" creationid="anas" creationdate="20220227T140003Z">
-        <seg>gn  gn  ign  gna  signal  significant  , signal eg  eg  beg  deg  began  began  degree mb  mb  emb  umb  december  members  numbers sc  sc  isc  sci  science  discovered  , science</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T125030Z" creationid="anas" creationdate="20220304T125030Z">
+        <seg>إشارات gn gn ign agn كهرومغناطيسية ، إشارات ، mb mb emb umb ديسمبر ديسمبر ، أرقام ، على سبيل المثال ، بداية بداية الساق ، بداية الكلية ، ex ex mex ext مدى المدى المكسيكي</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>gn  gn  ign  gni  significantly  , significantly  significantly&lt;span class="_enter"&gt; &lt;br/&gt;, va  va  var  var  various  various  vary&lt;span class="_enter"&gt; &lt;br/&gt;, sc  sc  isc  sco  discovery  scale  scale&lt;span class="_enter"&gt; &lt;br/&gt;, eg  eg  reg  leg  regional  college  legal&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+        <seg>gn  gn  ign  gna  signal  significant  , signal, eg  eg  beg  deg  began  began  degree, mb  mb  emb  umb  december  members  numbers, sc  sc  isc  sci  science  discovered  , science</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T141030Z" creationid="anas" creationdate="20220227T141030Z">
-        <seg>gn  gn  ign  gni  significantly  , significantly  significantly va  va  var  var  various  various  vary sc  sc  isc  sco  discovery  scale  scale eg  eg  reg  leg  regional  college  legal</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ill  ill  ill  ill  ill  ill&lt;span class="_enter"&gt; &lt;br/&gt;, fill  still  fill  still  fill  still&lt;span class="_enter"&gt; &lt;br/&gt;, ill  ill  ill  ill  ill  ill&lt;span class="_enter"&gt; &lt;br/&gt;, bill  kill  bill  kill  bill  kill&lt;span class="_enter"&gt; &lt;br/&gt;, ill  ill  ill  ill  ill  ill&lt;span class="_enter"&gt; &lt;br/&gt;, will  pill  will  pill  will  pill</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135526Z" creationid="anas" creationdate="20220227T135526Z">
-        <seg>ill  ill  ill  ill  ill  ill fill  still  fill  still  fill  still ill  ill  ill  ill  ill  ill, bill  kill  bill  kill  bill  kill ill  ill  ill  ill  ill  illwill  pill  will  pill  will  pill</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T221708Z" creationid="anas" creationdate="20220305T221531Z">
+        <seg>إشارة ارة ارة ارة ارة ارة  ذات دلالة ، إشارة ، على سبيل المثال ، بداية درجة بدأت الدرجة ، قام قام قام قام  أرقام أعضاء ديسمبر ، مبر مبر مبر مبر  علم  اكتشف ، علم</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>ink  ink  ink  ink  ink  ink&lt;span class="_enter"&gt; &lt;br/&gt;, think  sink  think  sink  think  sink&lt;span class="_enter"&gt; &lt;br/&gt;, ink  ink  ink  ink  ink  ink&lt;span class="_enter"&gt; &lt;br/&gt;, pink  link  pink  link  pink  link&lt;span class="_enter"&gt; &lt;br/&gt;, ink  ink  ink  ink  ink  ink&lt;span class="_enter"&gt; &lt;br/&gt;, drink  wink  drink  wink  drink  wink</seg>
+        <seg>gn  gn  ign  gni  significantly  , significantly  significantly, va  va  var  var  various  various  vary, sc  sc  isc  sco  discovery  scale  scale, eg  eg  reg  leg  regional  college  legal</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135619Z" creationid="anas" creationdate="20220227T135619Z">
-        <seg>ink  ink  ink  ink  ink  ink, think  sink  think  sink  think  sink ink  ink  ink  ink  ink  ink pink  link  pink  link  pink  link ink  ink  ink  ink  ink  ink drink  wink  drink  wink  drink  wink</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T213831Z" creationid="anas" creationdate="20220305T213831Z">
+        <seg>شك شك شك شك  بشكل ملحوظ ، بشكل ملحوظ ، اختلاف مخ مخ مخ  مختلف ، مخت مخت مخت يكتشف مقياس ، على سبيل المثال طقي طقي مناطقي كلية قانوني</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>ity  ity  ity  ity  ity  ity&lt;span class="_enter"&gt; &lt;br/&gt;, unity  city  unity  city  unity  city&lt;span class="_enter"&gt; &lt;br/&gt;, ity  ity  ity  ity  ity  ity&lt;span class="_enter"&gt; &lt;br/&gt;, cavity  sanity  cavity  sanity  cavity  , sanity&lt;span class="_enter"&gt; &lt;br/&gt;, ity  ity  ity  ity  ity  ity&lt;span class="_enter"&gt; &lt;br/&gt;, gravity  reality  gravity  reality  gravity  , reality</seg>
+        <seg>ill  ill  ill  ill  ill  ill, fill  still  fill  still  fill  still, ill  ill  ill  ill  ill  ill, bill  kill  bill  kill  bill  kill, ill  ill  ill  ill  ill  ill, will  pill  will  pill  will  pill</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135937Z" creationid="anas" creationdate="20220227T135937Z">
-        <seg>ity  ity  ity  ity  ity  ity unity  city  unity  city  unity  city ity  ity  ity  ity  ity  ity cavity  sanity  cavity  sanity  cavity  , sanity reality</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200057Z" creationid="anas" creationdate="20220301T200057Z">
+        <seg>مريض مريض مريض مريض ، تملأ ما زال ممتلئًا ، مريض مريض مريض مريض ، بيل اقتل فاتورة قتل بيل ، مريض مريض ، مريض ، سوف حبوب منع الحمل سوف حبوب منع الحمل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ine  ine  ine  ine  ine  ine dine  fine  dine  fine  dine  fine ine  ine  ine  ine  ine  ine shine  line  shine  line  shine  line ine  ine  ine  ine  ine  ine wine  pine  wine  pine  wine  pine</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214845Z" creationid="anas" creationdate="20220305T214845Z">
+        <seg>ine ine ine ine ine تناول العشاء غرامة العشاء غرامة العشاء غرامة ine ine ine ine ine خط تألق خط تألق خط تألق ine ine ine ine ine النبيذ والصنوبر والنبيذ والصنوبر والنبيذ والصنوبر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ink  ink  ink  ink  ink  ink, think  sink  think  sink  think  sink, ink  ink  ink  ink  ink  ink, pink  link  pink  link  pink  link, ink  ink  ink  ink  ink  ink, drink  wink  drink  wink  drink  wink</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200106Z" creationid="anas" creationdate="20220301T200106Z">
+        <seg>حبر حبر حبر حبر حبر ، فكر بالوعة فكر بالوعة فكر بالوعة ، حبر حبر حبر حبر حبر ، رابط وردي رابط وردي رابط وردي ، حبر حبر حبر حبر حبر ، غمزة شراب ، شرب غمزة ، شرب غمزة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ity  ity  ity  ity  ity  ity, unity  city  unity  city  unity  city, ity  ity  ity  ity  ity  ity, cavity  sanity  cavity  sanity  cavity  , sanity, ity  ity  ity  ity  ity  ity, gravity  reality  gravity  reality  gravity  , reality</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T221527Z" creationid="anas" creationdate="20220305T221527Z">
+        <seg>مدينة وحدة مدينة وحدة مدينة وحدة مدينة مدينة وحدة مدينة مدينة وحدة مدينة مدينة مدينة وحدة مدينة مدينة مدينة وحدة مدينة مدينة مدينة وحدة مدينة مدينة مدينة وحدة مدينة مدينة مدينة وحدة مدينة مدينة مدينة وحدة مدينة مدينة مدينة وحدة مدينة مدينة مدينة وحدة مدينة مدينة مدينة منها مدينة مدينة منها مدينة منها مدينة مصدرها مدينة منها مصدرها مدينة ، مدينة فلسانها</seg>
       </tuv>
     </tu>
     <tu>
@@ -2918,18 +3166,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>mb  mb  umb  mbe  number  numbers  numbers&lt;span class="_enter"&gt; &lt;br/&gt;, eg  eg  reg  leg  regional  legal  beginning&lt;span class="_enter"&gt; &lt;br/&gt;, va  va  eva  val  medieval  vary  medieval&lt;span class="_enter"&gt; &lt;br/&gt;, ia  ia  gia  pia  giant  caspian  indian&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+        <seg>mb  mb  umb  mbe  number  numbers  numbers, eg  eg  reg  leg  regional  legal  beginning, va  va  eva  val  medieval  vary  medieval, ia  ia  gia  pia  giant  caspian  indian</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T141549Z" creationid="ansas" creationdate="20201209T150558Z">
-        <seg>أرقام أرقام ، على سبيل المثال ، التسجيل في البداية القانونية الإقليمية  va va eva val medieval تختلف في العصور الوسطى ، ia ia gia pia عملاق بحر قزوين الهندي</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214644Z" creationid="anas" creationdate="20220305T214644Z">
+        <seg>أرقام أرقام mb mb umb mbe ، على سبيل المثال ، reg leg الإقليمية القانونية البداية ، va va eva val medieval var medieval var medieval ، ia ia gia pia عملاق بحر قزوين الهندي</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>minus-  and  equal=  symbols  are-  typed  , with=  the  -same-  finger=</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200735Z" creationid="anas" creationdate="20220301T200735Z">
+        <seg>ناقص ومتساوي = يتم كتابة الرموز ، مع = نفس الإصبع =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>one  one  one  one  one  one done  phone  done  phone  done  phone one  one  one  one  one  one drone  cone  drone  cone  drone  cone one  one  one  one  one  one bone  zone  bone  zone  bone  zone</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214841Z" creationid="anas" creationdate="20220305T214841Z">
+        <seg>واحد واحد واحد واحد واحد واحد تم إنجازه هاتف تم إنجازه هاتف واحد واحد واحد واحد واحد واحد بدون طيار مخروط مخروط الطائرة بدون طيار مخروط واحد واحد واحد واحد واحد واحد منطقة العظام منطقة العظام</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>open{  and  closed}  curly{}  brackets  are  , {also}  used  frequently  {in}  coding</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T194301Z" creationid="anas" creationdate="20220301T194301Z">
-        <seg>الأقواس المفتوحة {والمغلقة} المتعرجة {} ، {أيضًا} تستخدم بشكل متكرر {in} في الترميز</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T212209Z" creationid="anas" creationdate="20220301T194301Z">
+        <seg>ْالأقواس المفتوحة {والمغلقة} المتعرجة {} ، {أيضًا} تستخدم بشكل متكرر {في} في الترميز</seg>
       </tuv>
     </tu>
     <tu>
@@ -2942,26 +3206,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>own  own  own  own  own  own&lt;span class="_enter"&gt; &lt;br/&gt;, grown  blown  grown  blown  grown  blown&lt;span class="_enter"&gt; &lt;br/&gt;, own  own  own  own  own  own&lt;span class="_enter"&gt; &lt;br/&gt;, shown  town  shown  town  shown  town&lt;span class="_enter"&gt; &lt;br/&gt;, own  own  own  own  own  own&lt;span class="_enter"&gt; &lt;br/&gt;, drown  crown  drown  crown  drown  crown</seg>
+        <seg>ound  ound  ound  ound  ound ground  found  ground  found  ground  found ound  ound  ound  ound  ound sound  hound  sound  hound  sound  hound ound  ound  ound  ound  ound round  pound  round  pound  round  pound</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135500Z" creationid="anas" creationdate="20220227T135500Z">
-        <seg>own  own  own  own  own  own, grown  blown  grown  blown  grown  blown own  own  own  own  own  own, shown  town  shown  town  shown  town own  own  own  own  own  own drown  crown  drown  crown  drown  crown</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>rc  rc  erc  urc  percent  churches  , research&lt;span class="_enter"&gt; &lt;br/&gt;, ia  ia  pia  sia  caspian  asian  indian&lt;span class="_enter"&gt; &lt;br/&gt;, ex  ex  mex  exi  mexico  example  mexico&lt;span class="_enter"&gt; &lt;br/&gt;, sc  sc  isc  sci  science  schools  , discovered&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
-      </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T141440Z" creationid="anas" creationdate="20220227T141440Z">
-        <seg>rc  rc  erc  urc  percent  churches  , research ia  ia  pia  sia  caspian  asian  indian ex  ex  mex  exi  mexico  example  mexico sc  sc  isc  sci  science  schools  , discovered</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214847Z" creationid="anas" creationdate="20220305T214847Z">
+        <seg>ound ound ound ound ound تم العثور على الأرض وجدت الأرض وجدت ound ound ound ound ound ound ound ound ound ound ound ound ound ound ound جنيه دائري رطل دائري</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>rea  rea  rea  rea  rea  rea&lt;span class="_enter"&gt; &lt;br/&gt;, area  reason  area  reason  area  reason&lt;span class="_enter"&gt; &lt;br/&gt;, rea  rea  rea  rea  rea  rea&lt;span class="_enter"&gt; &lt;br/&gt;, real  reach  real  reach  real  reach&lt;span class="_enter"&gt; &lt;br/&gt;, rea  rea  rea  rea  rea  rea&lt;span class="_enter"&gt; &lt;br/&gt;, read  react  read  react  read  react</seg>
+        <seg>own  own  own  own  own  own, grown  blown  grown  blown  grown  blown, own  own  own  own  own  own, shown  town  shown  town  shown  town, own  own  own  own  own  own, drown  crown  drown  crown  drown  crown</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135648Z" creationid="anas" creationdate="20220227T135648Z">
-        <seg>rea  rea  rea  rea  rea  rea area  reason  area  reason  area  reason rea  rea  rea  rea  rea  rea real  reach  real  reach  real  reach rea  rea  rea  rea  rea  rea read  react  read  react  read  react</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T220505Z" creationid="anas" creationdate="20220305T220505Z">
+        <seg>الخاصة الخاصة بك الخاصة ، نمت منفوخة نمت في مهب ، امتلك الخاصة الخاصة ، تظهر المدينة المعروضة المدينة المعروضة ، تملك الخاصة الخاصة ، تغرق التاج غرق التاج غرق التاج</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rc  rc  erc  urc  percent  churches  , research, ia  ia  pia  sia  caspian  asian  indian, ex  ex  mex  exi  mexico  example  mexico, sc  sc  isc  sci  science  schools  , discovered</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214252Z" creationid="anas" creationdate="20220305T214252Z">
+        <seg>RC RC RC IRC نسبة الكنائس ، البحث ، ia ia pia sia caspian الآسيوي الهندي ، ex mex exi المكسيك مثال المكسيك ، sc sc isc sci sci school ، اكتشفت</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rea  rea  rea  rea  rea  rea, area  reason  area  reason  area  reason, rea  rea  rea  rea  rea  rea, real  reach  real  reach  real  reach, rea  rea  rea  rea  rea  rea, read  react  read  react  read  react</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200108Z" creationid="anas" creationdate="20220301T200108Z">
+        <seg>رد الفعل الحقيقي ، والسبب في المنطقة ، والسبب في المنطقة ، والفاعلية ، والفاعلية ، والفاعلية ، والفاعلية ، والفاعلية ، والقراءة ، والرد ، والرد ، والرد ، والرد.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,10 +3254,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>sc  sc  sci  sch  science  schools  school&lt;span class="_enter"&gt; &lt;br/&gt;, ex  ex  mex  exa  examples  examples  mexico&lt;span class="_enter"&gt; &lt;br/&gt;, rc  rc  arc  urc  research  research  , churches&lt;span class="_enter"&gt; &lt;br/&gt;, gn  gn  ign  agn  signal  electromagnetic  , significant&lt;span class="_enter"&gt; &lt;br/&gt;</seg>
+        <seg>sc  sc  sci  sch  science  schools  school, ex  ex  mex  exa  examples  examples  mexico, rc  rc  arc  urc  research  research  , churches, gn  gn  ign  agn  signal  electromagnetic  , significant</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T141155Z" creationid="anas" creationdate="20220227T141155Z">
-        <seg>sc  sc  sci  sch  science  schools  school ex  ex  mex  exa  examples  examples  mexico rc  rc  arc  urc  research  research  , churches, gn  gn  ign  agn  signal  electromagnetic  , significant</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214240Z" creationid="anas" creationdate="20220305T214240Z">
+        <seg>sc sc sci sch science school school، ex mex exa أمثلة أمثلة المكسيك ، rc rc rc urc Research Research ، الكنائس ، gn gn ign agn ، إشارة كهرومغناطيسية ، هام</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>some`  symbols~  are`  kind~  of`  , difficult~  to  master`</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200720Z" creationid="anas" creationdate="20220301T200720Z">
+        <seg>بعض` الرموز ~ من` النوع ، يصعب` إتقانها</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,34 +3278,90 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>son  son  son  son  son  son&lt;span class="_enter"&gt; &lt;br/&gt;, reason  person  reason  person  reason  , person&lt;span class="_enter"&gt; &lt;br/&gt;, son  son  son  son  son  son&lt;span class="_enter"&gt; &lt;br/&gt;, treason  season  treason  season  treason  , season&lt;span class="_enter"&gt; &lt;br/&gt;, son  son  son  son  son  son&lt;span class="_enter"&gt; &lt;br/&gt;, lesson  grandson  lesson  grandson  lesson  , grandson</seg>
+        <seg>son  son  son  son  son  son, reason  person  reason  person  reason  , person, son  son  son  son  son  son, treason  season  treason  season  treason  , season, son  son  son  son  son  son, lesson  grandson  lesson  grandson  lesson  , grandson</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135551Z" creationid="anas" creationdate="20220227T135551Z">
-        <seg>son  son  son  son  son  son reason  person  reason  person  reason  , person son  son  son  son  son  son, treason  season  treason  season  treason  , season son  son  son  son  son  son lesson  grandson  lesson  grandson  lesson  , grandson</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200103Z" creationid="anas" creationdate="20220301T200103Z">
+        <seg>الابن الابن الابن الابن الابن العقل الشخص السبب الشخص الشخص السبب الابن الابن الابن الابن الابن موسم الخيانة موسم الخيانة خيانة الموسم الابن الابن الابن الابن الابن الدرس الحفيد درس الحفيد الحفيد</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>utt  utt  utt  utt  utt  utt&lt;span class="_enter"&gt; &lt;br/&gt;, button  butter  button  butter  button  , butter&lt;span class="_enter"&gt; &lt;br/&gt;, utt  utt  utt  utt  utt  utt&lt;span class="_enter"&gt; &lt;br/&gt;, cutter  gutter  cutter  gutter  cutter  , gutter&lt;span class="_enter"&gt; &lt;br/&gt;, utt  utt  utt  utt  utt  utt&lt;span class="_enter"&gt; &lt;br/&gt;, clutter  utter  clutter  utter  clutter  , utter</seg>
+        <seg>ted  ted  ted  ted  ted  ted created  interested  created  interested  , created  interested ted  ted  ted  ted  ted  ted united  located  united  located  united  , located ted  ted  ted  ted  ted  ted counted  tainted  counted  tainted  counted  , tainted</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135851Z" creationid="anas" creationdate="20220227T135851Z">
-        <seg>utt  utt  utt  utt  utt  utt button  butter  button  butter  button  , butter utt  utt  utt  utt  utt  utt cutter  gutter  cutter  gutter  cutter  , gutter utt  utt  utt  utt  utt  utt cutter  gutter  cutter  gutter  cutter  , gutter utt  utt  utt  utt  utt  utt, clutter  utter  clutter  utter  clutter  , utter</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214839Z" creationid="anas" creationdate="20220305T214839Z">
+        <seg>تيد تيد تيد تيد تيد خلق المهتمين خلق المهتمين ، خلق المهتمين تيد تيد تيد تيد تيد يونايتد الموجود في يونايتد ، يقع تيد تيد تيد تيد تيد تيد ملوث يعد ملوثًا معدودًا ملوثًا</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>there  are  &amp;lt;two&amp;gt;  more  symbols  &amp;gt;to&amp;lt;  , learn.  The  less&amp;lt;than  and  greater&amp;gt;than  , signs.</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220304T125013Z" creationid="anas" creationdate="20220304T125013Z">
+        <seg>هناك &lt;اثنان&gt; المزيد من الرموز&gt; &lt;، التعلم. علامات أصغر &lt;وأكبر&gt; من.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>tor  tor  tor  tor  tor  tor creator  inventor  creator  inventor  , creator  inventor tor  tor  tor  tor  tor  tor mentor  vector  mentor  vector  mentor  , vector tor  tor  tor  tor  tor  tor tractor  rotor  tractor  rotor  tractor  , rotor</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T214844Z" creationid="anas" creationdate="20220305T214844Z">
+        <seg>Tor tor tor tor tor tor tor tor tor tor Tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor تؤترِكتور rotor جرار، دوار</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>utt  utt  utt  utt  utt  utt, button  butter  button  butter  button  , butter, utt  utt  utt  utt  utt  utt, cutter  gutter  cutter  gutter  cutter  , gutter, utt  utt  utt  utt  utt  utt, clutter  utter  clutter  utter  clutter  , utter</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T221516Z" creationid="anas" creationdate="20220305T221516Z">
+        <seg>عفف عفف عفف عفف عفف عفف  زر زبدة كبسة قاسية زر زبدة عفف عفف عفف عفف عفف عفف  قصاصة مجاري قصاصة مجاري قصاصة مجاري عفف عفف عفف عفف عفف عفف  تكدس عفف تكدس لفظ عفف </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>wd  cz  ip  ls  SQ  Kp  s</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220301T194245Z" creationid="anas" creationdate="20220301T194245Z">
-        <seg>wd cz ip ls SQ Kp s</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T212158Z" creationid="anas" creationdate="20220301T194245Z">
+        <seg>صي يئ هح هس سض نح س </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>you  you  you  you  you  you&lt;span class="_enter"&gt; &lt;br/&gt;, youth  young  youth  young  youth  young&lt;span class="_enter"&gt; &lt;br/&gt;, you  you  you  you  you  you&lt;span class="_enter"&gt; &lt;br/&gt;, layout  yourself  layout  yourself  layout  , yourself&lt;span class="_enter"&gt; &lt;br/&gt;, you  you  you  you  you  you&lt;span class="_enter"&gt; &lt;br/&gt;, tryout  payout  tryout  payout  tryout  , payout</seg>
+        <seg>we  don't  always  use  "special  symbols"  , in  normal  text</seg>
       </tuv>
-      <tuv lang="ar-AE" changeid="anas" changedate="20220227T135814Z" creationid="anas" creationdate="20220227T135814Z">
-        <seg>you  you  you  you  you  you youth  young  youth  young  youth  young you  you  you  you  you  you layout  yourself  layout  yourself  layout  , yourself you  you  you  you  you  you tryout  payout  tryout  payout  tryout  , payout</seg>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200730Z" creationid="anas" creationdate="20220301T200730Z">
+        <seg>لا نستخدم دائمًا "رموزًا خاصة" في النص العادي</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>w{q}  c}d}  k{s}  }ww{  s{W}  o{a}</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T213009Z" creationid="anas" creationdate="20220305T213009Z">
+        <seg>ص{ل}  ؤ}ي}  ن{س}  }صص{  س{ص}  خ{ش}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>w|s\  x\q|  o\p|  k\z\  o|i|  p\u\</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T213229Z" creationid="anas" creationdate="20220305T213229Z">
+        <seg>ص\ س/ ء\ض/ خ\ج/ ن\ئ\ خ\ه\ ح/ع/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>x&amp;lt;o&amp;gt;  p&amp;gt;d&amp;lt;  t&amp;gt;w&amp;lt;  u&amp;gt;i&amp;lt;  s&amp;gt;a&amp;gt;  p&amp;gt;w&amp;lt;</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220305T213337Z" creationid="anas" creationdate="20220305T213337Z">
+        <seg>ء &lt;خ&gt; ح&gt; ي &lt;ف&gt; ص &lt;ع&gt; ه &lt;س&gt; ش&gt; ح&gt; ص &lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you  you  you  you  you  you, youth  young  youth  young  youth  young, you  you  you  you  you  you, layout  yourself  layout  yourself  layout  , yourself, you  you  you  you  you  you, tryout  payout  tryout  payout  tryout  , payout</seg>
+      </tuv>
+      <tuv lang="ar-AE" changeid="anas" changedate="20220301T200351Z" creationid="anas" creationdate="20220301T200351Z">
+        <seg>انت انت انت انت انت انت شباب شاب شباب شاب شباب شاب انت انت انت انت انت انت انت طبقة نفسك طبقة نفسك طبقة نفسك انت انت انت انت انت حاول ادفع حاول ادفع حاول  ادفع </seg>
       </tuv>
     </tu>
     <tu>
